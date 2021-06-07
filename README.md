@@ -17,14 +17,14 @@ Plasm Network is a dApps hub on Polkadot that supports Ethereum and layer 2 solu
 # Roles
 Candidate -> Ambassador -> Senior Ambassador -> Regional Head
 
-Everyone who applied will be a candidate. You can apply here https://ambassador.plasmnet.io (LINK DOESNT EXCIST - EXAMPLE PAGE)
+Everyone who applied will be a candidate. You can apply here https://ambassador.plasmnet.io (LINK DOESNT EXCIST - EXAMPLE PAGE).
 Our team will evaluate your progress and commitment to determine your status.
 Your role will be reflected in our official Discord channel and Telegram if you are active in official channel.
 
 # Apply Now
 https://ambassador.plasmnet.io (LINK DOESNT EXCIST - EXAMPLE PAGE)
 
-# List of Recognized Ambassadors
+# List of Recognized Ambassadors + handle
 * Name 1
 * Name 2
 * Name 3
