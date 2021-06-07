@@ -7,6 +7,22 @@ Plasm Network is a dApps hub on Polkadot that supports Ethereum and layer 2 solu
 * Committed to the program. Ideally owning a community already, but not a must.
 
 # Benefits
+* We will add you to our Ambassador smart contract so you earn passive income through dApp staking.
+* Able to join the builders program committee. 
+* Who doesn’t like free stuff? You’ll stand out with cool Plasm swag, marking you as an extra-special member of the crew. Get limited digital swag like NFT's.
+* You’ll be working closely alongside some of the most notable figures from the Plasm ecosystem.
+
 # Roles
+Candidate -> Ambassador -> Senior Ambassador -> Regional Head
+
+Everyone who applied will be a candidate. You can apply here https://ambassador.plasmnet.io
+Our team will evaluate your progress and commitment to determine your status.
+Your role will be reflected in our official Discord channel and Telegram if you are active in official channel.
+
 # Apply Now
+https://ambassador.plasmnet.io
+
 # List of Recognized Ambassadors
+* Name 1
+* Name 2
+* Name 3
