@@ -24,6 +24,14 @@ Your role will be reflected in our official Discord channel and Telegram if you 
 # Apply Now
 https://ambassador.plasmnet.io (LINK DOESNT EXCIST - EXAMPLE PAGE)
 
+# Evaluation
+* We value your area of expertise.
+* We value your experience of community management.
+* We value applicants who applied early.
+* We value the size of your community that you can reach.
+* We value your referrer background - the person who invited you.
+* We value the quality of your future referrals.
+
 # List of Recognized Ambassadors 
 * Name 1 | @testusername
 * Name 2
