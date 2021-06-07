@@ -9,7 +9,7 @@ Plasm Network is a dApps hub on Polkadot that supports Ethereum and layer 2 solu
 # Benefits
 * We will add you to our Ambassador smart contract so you earn passive income through dApp staking.
 * Able to join the builders program committee. 
-* Who doesn’t like free stuff? You’ll stand out with cool Plasm swag, marking you as an extra-special member of the crew. Get limited digital swag like NFT's.
+* Who doesn’t like free stuff? You’ll stand out with cool Plasm swag, marking you as an extra-special member of the crew. Also get your hands on limited digital swag like NFT's.
 * You’ll be working closely alongside some of the most notable figures from the Plasm ecosystem.
 
 # Roles
