@@ -1,10 +1,12 @@
 # Ambassador Program
 Plasm Network is a dApps hub on Polkadot that supports Ethereum and layer 2 solutions like ZK Rollups. Plasm aims to be a multi-chain smart contract platform that will support multiple blockchains and virtual machines like EVM and WASM. We constantly are looking for new Ambassadors to support our ecosystem.
+
 # Criteria
 * Good understanding of Plasm vision, features and latest developments
 * Experience of community engagement on social media & meetups
 * Interested in growing & educating the community for Plasm ecosystem & Web3.0.
 * Committed to the program. Ideally owning a community already, but not a must.
+* Send us updates regarding your contributions, add your tasks on Notion.
 
 # Benefits
 * We will add you to our Ambassador smart contract so you earn passive income through dApp staking.
@@ -15,12 +17,12 @@ Plasm Network is a dApps hub on Polkadot that supports Ethereum and layer 2 solu
 # Roles
 Candidate -> Ambassador -> Senior Ambassador -> Regional Head
 
-Everyone who applied will be a candidate. You can apply here https://ambassador.plasmnet.io
+Everyone who applied will be a candidate. You can apply here https://ambassador.plasmnet.io (LINK DOESNT EXCIST - EXAMPLE PAGE)
 Our team will evaluate your progress and commitment to determine your status.
 Your role will be reflected in our official Discord channel and Telegram if you are active in official channel.
 
 # Apply Now
-https://ambassador.plasmnet.io
+https://ambassador.plasmnet.io (LINK DOESNT EXCIST - EXAMPLE PAGE)
 
 # List of Recognized Ambassadors
 * Name 1
