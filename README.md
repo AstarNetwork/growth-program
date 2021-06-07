@@ -24,7 +24,7 @@ Your role will be reflected in our official Discord channel and Telegram if you 
 # Apply Now
 https://ambassador.plasmnet.io (LINK DOESNT EXCIST - EXAMPLE PAGE)
 
-# List of Recognized Ambassadors + handle
-* Name 1
+# List of Recognized Ambassadors 
+* Name 1 | @testusername
 * Name 2
 * Name 3
