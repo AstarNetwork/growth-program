@@ -1,36 +1,48 @@
 # Ambassador Program
-Plasm Network is a dApps hub on Polkadot that supports Ethereum and layer 2 solutions like ZK Rollups. Plasm aims to be a multi-chain smart contract platform that will support multiple blockchains and virtual machines like EVM and WASM. We constantly are looking for new Ambassadors to support our ecosystem.
 
-# Criteria
+## Introduction
+Plasm Network is a multi-chain decentralized application layer on Polkadot that natively supports cross virtual machine communication (Ethereum Virtual Machine, WebAssembly) and Layer2 scaling solutions (Optimistic virtual machine, ZK rollups). Our goal is to become a blockchain that is owned by the community but we cannot achieve this without your help. As such, we are on the lookout for active members of the community to help support the ecosystem, to help promote and raise awareness of Plasm Network. These ambassadors will officially represent us in their respective regions and will play a key role in helping to shape the future of Plasm Network.
+
+## Criteria
 * Good understanding of Plasm vision, features and latest developments.
-* Experience of community engagement on social media like Telegram/Discord & meetups.
+* Experience with community engagement on social media (Telegram, Discord, meetups).
 * Interested in growing & educating the community for Plasm ecosystem & Web3.0.
-* Committed to the program. Ideally owning a community already, but not a must.
-* Send us updates regarding your contributions, add your tasks on Notion.
+* Committed to helping Plasm Network become a community owned blockchain.
 
-# Benefits
-* We will add you to our Ambassador smart contract so you earn passive income through dApp staking.
-* Able to join the builders program committee. 
-* Who doesn’t like free stuff? You’ll stand out with cool Plasm swag, marking you as an extra-special member of the crew. Also get your hands on limited digital swag like NFT's.
-* You’ll be working closely alongside some of the most notable figures from the Plasm ecosystem.
+## Expectations
+* Foster and grow a strong community in your respective region.
+* Be transparent about your contributions and tasks (add tasks to notion / github).
+* Translation of articles into your native language.
+* Organisation of meetups for the local community (once Covid settles down).
+* Attend events and conferences on behalf of the team.
+
+## Benefits
+* Earn passive income through dapp staking!
+* Be a part of the builders program committee and help to grow our ecosystem!
+* Build a reputation (and maybe even your future career!) for yourself!
+* Work along side notable people / projects in this space!
+* Attend local event and conferences that are sponsored by the team!
+* Limited edition freebies e.g. NFTs that are reserved only for our ambassadors!
+* Hangout with us :)
 
 # Roles
 Candidate -> Ambassador -> Senior Ambassador -> Regional Head
 
-Everyone who applied will be a candidate. You can apply here https://ambassador.plasmnet.io (LINK DOESNT EXCIST - EXAMPLE PAGE).
-Our team will evaluate your progress and commitment to determine your status.
-Your role will be reflected in our official Discord channel and Telegram if you are active in official channel.
+Everyone starts off as a candidate and is put on trial for a period of time. As time progresses, the team will evaluate your progress, commitment and performance to determine if you are ready to take on more responsibility as a fully fledged ambassador. Eventually you will be promoted to a senior ambassador and finally regional head where you will oversee and be responsible for all activities that happen in your region. Your role will also be reflected accordingly in our official Telegram and Discord channels.
+
+# Evaluation
+* We value early supports of the program.
+* We value your area of expertise.
+* We value your experience with community management.
+* We value your commitment to the program.
+* We value the impact of your existing and future contributions to the ecosystem.
+* We value transparency in the nature of your work and contributions.
+* We value your ability to work with other candidates, ambassadors and community members.
+* We value your efforts in growing an active community that wants to see Plasm succeed.
+* We value your referrer and your future referrals.
 
 # Apply Now
 https://ambassador.plasmnet.io (LINK DOESNT EXCIST - EXAMPLE PAGE)
-
-# Evaluation
-* We value your area of expertise.
-* We value your experience of community management.
-* We value applicants who applied early.
-* We value the size of your community that you can reach.
-* We value your referrer background - the person who invited you.
-* We value the quality of your future referrals.
 
 # List of Recognized Ambassadors 
 * Name 1 | @testusername
