@@ -1,7 +1,7 @@
 # Ambassador Program
 
 ## Introduction
-Plasm Network is a multi-chain decentralized application layer on Polkadot that natively supports cross virtual machine communication (Ethereum Virtual Machine, WebAssembly) and Layer2 scaling solutions (Optimistic virtual machine, ZK rollups). Our goal is to become a blockchain that is owned by the community but we cannot achieve this without your help. As such, we are on the lookout for active members of the community to help support the ecosystem, to help promote and raise awareness of Plasm Network. These ambassadors will officially represent us in their respective regions and will play a key role in helping to shape the future of Plasm Network.
+Plasm Network is a Multi-Chain decentralized application layer on Polkadot that natively supports Cross Virtual Machine (X-VM) communication (Ethereum Virtual Machine, WebAssembly) and Layer2 scaling solutions (Optimistic virtual machine, ZK rollups). Our goal is to become a blockchain that is owned by the community. We cannot achieve this without your help. As such, we are on the lookout for active members of the community to help support the ecosystem, to help promote and raise awareness of Plasm Network. These ambassadors will officially represent us in their respective regions and will play a key role in helping to shape the future of Plasm ecosystem.
 
 ## Criteria
 * Good understanding of Plasm vision, features and latest developments.
@@ -11,7 +11,7 @@ Plasm Network is a multi-chain decentralized application layer on Polkadot that 
 
 ## Expectations
 * Foster and grow a strong community in your respective region.
-* Be transparent about your contributions and tasks (add tasks to notion / github).
+* Be transparent about your contributions and tasks (add tasks to Notion / Github).
 * Translation of articles into your native language.
 * Organisation of meetups for the local community (once Covid settles down).
 * Attend events and conferences on behalf of the team.
