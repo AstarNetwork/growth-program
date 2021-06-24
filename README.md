@@ -15,6 +15,7 @@ Plasm Network is a Multi-Chain decentralized application layer on Polkadot that 
 * Translation of articles into your native language.
 * Organisation of meetups for the local community (once Covid settles down).
 * Attend events and conferences on behalf of the team.
+* Attend monthly Ambassador call + one-on-one meeting every quarter.
 
 ## Benefits
 * Earn passive income through dapp staking!
@@ -28,7 +29,7 @@ Plasm Network is a Multi-Chain decentralized application layer on Polkadot that 
 # Roles
 Candidate -> Ambassador -> Senior Ambassador -> Regional Head
 
-Everyone starts off as a candidate and is put on trial for a period of time. As time progresses, the team will evaluate your progress, commitment and performance to determine if you are ready to take on more responsibility as a fully fledged ambassador. Eventually you will be promoted to a senior ambassador and finally regional head where you will oversee and be responsible for all activities that happen in your region. Your role will also be reflected accordingly in our official Telegram and Discord channels.
+Everyone starts off as a candidate. When your application is approved you will become an apprentice ambassador for one quarter. As time progresses, the team will evaluate your progress, commitment and performance to determine if you are ready to take on more responsibility as a fully fledged ambassador. Eventually you will be promoted to a senior ambassador and finally regional head where you will oversee and be responsible for all activities that happen in your region. Your role will also be reflected accordingly in our official Telegram and Discord channels.
 
 # Evaluation
 * We value early supports of the program.
@@ -42,9 +43,9 @@ Everyone starts off as a candidate and is put on trial for a period of time. As 
 * We value your referrer and your future referrals.
 
 # Apply Now
-https://ambassador.plasmnet.io (LINK DOESNT EXCIST - EXAMPLE PAGE)
+https://share.hsforms.com/1_Qyt1oetQZCewiCKkRhKewc2ryh
 
-# List of Recognized Ambassadors 
+# List of Senior Ambassadors 
 * Name 1 | @testusername
 * Name 2
 * Name 3
