@@ -1,17 +1,17 @@
 # Ambassador Program
 
 ## Introduction
-Plasm Network is a Multi-Chain decentralized application layer on Polkadot that natively supports Cross Virtual Machine (X-VM) communication (Ethereum Virtual Machine, WebAssembly) and Layer2 scaling solutions (Optimistic virtual machine, ZK rollups). Our goal is to become a blockchain that is owned by the community. We cannot achieve this without your help. As such, we are on the lookout for active members of the community to help support the ecosystem, to help promote and raise awareness of Plasm Network. These ambassadors will officially represent us in their respective regions and will play a key role in helping to shape the future of Plasm ecosystem.
+Astar Network is a Multi-Chain decentralized application layer on Polkadot that natively supports Cross Virtual Machine (X-VM) communication (Ethereum Virtual Machine, WebAssembly) and Layer2 scaling solutions (Optimistic virtual machine, ZK rollups). Our goal is to become a blockchain that is owned by the community. We cannot achieve this without your help. As such, we are on the lookout for active members of the community to help support the ecosystem, to help promote and raise awareness of Astar Network. These ambassadors will officially represent us in their respective regions and will play a key role in helping to shape the future of Astar ecosystem.
 
 ## Criteria
-* Good understanding of Plasm vision, features and latest developments.
+* Good understanding of Astar vision, features and latest developments.
 * Experience with community engagement on social media (Telegram, Discord, meetups).
-* Interested in growing & educating the community for Plasm ecosystem & Web3.0.
-* Committed to helping Plasm Network become a community owned blockchain.
+* Interested in growing & educating the community for Astar ecosystem & Web3.0.
+* Committed to helping Astar Network become a community owned blockchain.
 
 ## Expectations
 * Foster and grow a strong community in your respective region.
-* Be transparent about your contributions and tasks (add tasks to Notion / Github).
+* Be transparent about your contributions and tasks (add tasks to Hubspot).
 * Translation of articles into your native language.
 * Organisation of meetups for the local community (once Covid settles down).
 * Attend events and conferences on behalf of the team.
@@ -39,7 +39,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 * We value the impact of your existing and future contributions to the ecosystem.
 * We value transparency in the nature of your work and contributions.
 * We value your ability to work with other candidates, ambassadors and community members.
-* We value your efforts in growing an active community that wants to see Plasm succeed.
+* We value your efforts in growing an active community that wants to see Astar succeed.
 * We value your referrer and your future referrals.
 
 # Apply Now
