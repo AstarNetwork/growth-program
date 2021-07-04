@@ -45,7 +45,6 @@ Everyone starts off as a candidate. When your application is approved you will b
 # Apply Now
 https://share.hsforms.com/1_Qyt1oetQZCewiCKkRhKewc2ryh
 
-# List of Senior Ambassadors 
-* Name 1 | @testusername
-* Name 2
-* Name 3
+# Pict deck about the revamped Ambassador program
+https://www.canva.com/design/DAEilsfxV8g/fepVtl7Hf25tjqyu_sPLYg/view?utm_content=DAEilsfxV8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
