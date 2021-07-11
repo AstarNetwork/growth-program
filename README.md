@@ -53,3 +53,4 @@ Everyone starts off as a candidate. When your application is approved you will b
 * [Maarten](https://github.com/fiexer) - VP of Growth Astar ecosystem
 * [Rheeunion (Rhee)](https://github.com/RHEEUNION) - Official Ambassador
 * [bld75](https://github.com/bLd75) - Official Ambassador
+* [Vlady Limes](https://github.com/vladylime) - Official Ambassador
