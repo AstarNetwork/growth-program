@@ -49,7 +49,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 [View pitch dech](https://www.canva.com/design/DAEilsfxV8g/fepVtl7Hf25tjqyu_sPLYg/view?utm_content=DAEilsfxV8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 # Council
-* [Sota](https://github.com/SotaWatanabe)
-* [Maarten](https://github.com/fiexer)
-* [Rheeunion (Rhee)](https://github.com/RHEEUNION)
-* [bld75](https://github.com/bLd75)
+* [Sota](https://github.com/SotaWatanabe) - Founder, director Astar ecosystem
+* [Maarten](https://github.com/fiexer) - VP of Growth Astar ecosystem
+* [Rheeunion (Rhee)](https://github.com/RHEEUNION) - Official Ambassador
+* [bld75](https://github.com/bLd75) - Official Ambassador
