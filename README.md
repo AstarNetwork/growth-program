@@ -102,12 +102,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 | A2 | Creating interesting memes. Creating interesting memes about Astar/Shiden. You can tweet it and tag @AstarNetwork |
 | A3 | Create a video about Astar/Shiden Network. |
 | A4 | Organize meetup about Astar/Shiden. e.g., Zoom meeting, AMA. |
-| A5 | Social engagement. Invite people to follow our Twitter, Telegram,  Discord, or LinkedIn.  
-Log your work with the following details on Github:
-1. Share the post link or message link of your invitation.
-2. Describe the community and its reachable audience size.
-
-Please do not SPAM people. Be informative, friendly, and helpful.|
+| A5 | Social engagement. Invite people to follow our Twitter, Telegram,  Discord, or LinkedIn. Log your work with the following details on Github: 1. Share the post link or message link of your invitation. 2. Describe the community and its reachable audience size. Please do not SPAM people. Be informative, friendly, and helpful.|
 | A6 | Freestyle, be creative, and show your skills. |
 
 
