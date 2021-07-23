@@ -86,3 +86,12 @@ Everyone starts off as a candidate. When your application is approved you will b
 ---
 
 # Campaigns and Tasks
+## Campaigns
+
+| #ID | Description |
+| --- | --- |
+| C1 | Builders program - promote Astar with projects, developers. Create the interest with projects and developers to build in our ecosystem. Create a Telegram group with you, projects leaders, Maarten, and Sota. |
+| C2 | Not started: promote Astar during Polkadot Auctions |
+
+
+## Tasks
