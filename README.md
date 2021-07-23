@@ -10,6 +10,7 @@
 
 - [Community rewards](#community-rewards)
 - [Ambassador program](#ambassador-program)
+- [Running campaigns and tasks](#campaigns-and-tasks)
 
 ---
 
@@ -81,3 +82,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 * [Rheeunion (Rhee)](https://github.com/RHEEUNION) - Official Ambassador
 * [bld75](https://github.com/bLd75) - Official Ambassador
 * [Vlady Limes](https://github.com/vladylime) - Official Ambassador
+
+---
+
+# Campaigns and Tasks
