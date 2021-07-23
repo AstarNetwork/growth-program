@@ -1,3 +1,18 @@
+# Aster ecosystem Growth
+
+<p align="center">
+  <img src="astar.png" style="width:1000px";>
+</p>
+
+> **:loudspeaker:** This program is tracked **transparently** on GitHub.
+
+---
+
+- [Community rewards](#community-rewards)
+- [Ambassador program](#ambassador-program)
+
+---
+
 # Community rewards
 # Ambassador Program
 
