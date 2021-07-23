@@ -14,9 +14,12 @@
 ---
 
 # Community rewards
-# Ambassador Program
+## Overview
+Astar is a community-driven project, and we need you to help grow our ecosystem. We have created an open Ambassador contribution system where every community member can join and support the Astar ecosystem. You can collect points and receive rewards through dApp staking if your contributions are valid. Joining the Ambassador contribution system as a community member is also the perfect way to show us that you are the Ambassador we need for the Astar ecosystem. It's also the ideal way to educate yourself about Astar and the Polkadot ecosystem.
 
-## Introduction
+
+# Ambassador Program
+## Overview
 Astar Network is a Multi-Chain decentralized application layer on Polkadot that natively supports Cross Virtual Machine (X-VM) communication (Ethereum Virtual Machine, WebAssembly) and Layer2 scaling solutions (Optimistic virtual machine, ZK rollups). Our goal is to become a blockchain that is owned by the community. We cannot achieve this without your help. As such, we are on the lookout for active members of the community to help support the ecosystem, to help promote and raise awareness of Astar Network. These ambassadors will officially represent us in their respective regions and will play a key role in helping to shape the future of Astar ecosystem.
 
 ## Criteria
