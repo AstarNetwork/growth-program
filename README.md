@@ -1,3 +1,4 @@
+# Community rewards
 # Ambassador Program
 
 ## Introduction
