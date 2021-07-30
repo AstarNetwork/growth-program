@@ -73,9 +73,6 @@ Everyone starts off as a candidate. When your application is approved you will b
 # Apply Now
 [Click here to apply!](https://share.hsforms.com/1_Qyt1oetQZCewiCKkRhKewc2ryh)
 
-# Pitch Deck
-[View pitch dech](https://www.canva.com/design/DAEilsfxV8g/fepVtl7Hf25tjqyu_sPLYg/view?utm_content=DAEilsfxV8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-
 # Council
 * [Sota](https://github.com/SotaWatanabe) - Founder, director Astar ecosystem
 * [Maarten](https://github.com/fiexer) - VP of Growth Astar ecosystem
