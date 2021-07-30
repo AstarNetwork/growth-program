@@ -1,6 +1,34 @@
-# Ambassador Program
+# Aster ecosystem Growth
 
-## Introduction
+<p align="center">
+  <img src="astar.png" style="width:1000px";>
+</p>
+
+> **:loudspeaker:** This program is tracked **transparently** on GitHub.
+
+---
+
+- [Community rewards](#community-rewards)
+- [Ambassador program](#ambassador-program)
+- [Running campaigns and tasks](#campaigns-and-tasks)
+
+---
+
+# Community rewards
+## Overview
+Astar is a community-driven project, and we need you to help grow our ecosystem. We have created an open Ambassador contribution system where every community member can join and support the Astar ecosystem. You can collect points and receive rewards through dApp staking if your contributions are valid. Joining the Ambassador contribution system as a community member is also the perfect way to show us that you are the Ambassador we need for the Astar ecosystem. It's also the ideal way to educate yourself about Astar and the Polkadot ecosystem.
+
+## How to contribute
+* Create an account on [Github](https://www.github.com).
+* Visit the [Growth program repository](https://github.com/PlasmNetwork/growth-program).
+* Look at the [running campaigns and tasks](#campaigns-and-tasks).
+* Submit your contribution. [Read here how!](https://forum.astar.network)
+* After your contribution has been verified, you can see your result in [this spreadsheet](https://docs.google.com/spreadsheets/d/1SR54Sy_92-51-GRJXeDD_6LrMQfgo10BrV42kbNINlg/edit?usp=sharing).
+
+---
+
+# Ambassador Program
+## Overview
 Astar Network is a Multi-Chain decentralized application layer on Polkadot that natively supports Cross Virtual Machine (X-VM) communication (Ethereum Virtual Machine, WebAssembly) and Layer2 scaling solutions (Optimistic virtual machine, ZK rollups). Our goal is to become a blockchain that is owned by the community. We cannot achieve this without your help. As such, we are on the lookout for active members of the community to help support the ecosystem, to help promote and raise awareness of Astar Network. These ambassadors will officially represent us in their respective regions and will play a key role in helping to shape the future of Astar ecosystem.
 
 ## Criteria
@@ -45,12 +73,33 @@ Everyone starts off as a candidate. When your application is approved you will b
 # Apply Now
 [Click here to apply!](https://share.hsforms.com/1_Qyt1oetQZCewiCKkRhKewc2ryh)
 
-# Pitch Deck
-[View pitch dech](https://www.canva.com/design/DAEilsfxV8g/fepVtl7Hf25tjqyu_sPLYg/view?utm_content=DAEilsfxV8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-
 # Council
 * [Sota](https://github.com/SotaWatanabe) - Founder, director Astar ecosystem
 * [Maarten](https://github.com/fiexer) - VP of Growth Astar ecosystem
 * [Rheeunion (Rhee)](https://github.com/RHEEUNION) - Official Ambassador
 * [bld75](https://github.com/bLd75) - Official Ambassador
 * [Vlady Limes](https://github.com/vladylime) - Official Ambassador
+
+---
+
+# Campaigns and Tasks
+## Campaigns
+
+| #ID | Description |
+| --- | --- |
+| C1 | Builders program - promote Astar with projects, developers. Create the interest with projects and developers to build in our ecosystem. Create a Telegram group with you, projects leaders, Maarten, and Sota. |
+| C2 | Not started: promote Astar during Polkadot Auctions |
+
+
+## Tasks
+
+| #ID | Description |
+| --- | --- |
+| A1 | Write blog posts about Astar/Shiden. Use your own words and share our uniqueness. |
+| A2 | Creating interesting memes. Creating interesting memes about Astar/Shiden. You can tweet it and tag @AstarNetwork |
+| A3 | Create a video about Astar/Shiden Network. |
+| A4 | Organize meetup about Astar/Shiden. e.g., Zoom meeting, AMA. |
+| A5 | Social engagement. Invite people to follow our Twitter, Telegram,  Discord, or LinkedIn. Log your work with the following details on Github: 1. Share the post link or message link of your invitation. 2. Describe the community and its reachable audience size. Please do not SPAM people. Be informative, friendly, and helpful.|
+| A6 | Freestyle, be creative, and show your skills. |
+
+
