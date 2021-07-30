@@ -21,9 +21,9 @@ Astar is a community-driven project, and we need you to help grow our ecosystem.
 ## How to contribute
 * Create an account on [Github](https://www.github.com).
 * Visit the [Growth program repository](https://github.com/PlasmNetwork/growth-program).
-* Look at the running Campaigns and Tasks, be sure you look at the updated list in this main thread post.
+* Look at the [running campaigns and tasks](#campaigns-and-tasks), list is also up-to-date on our forum.
 * Submit your contribution. [Read here how!](https://forum.astar.network)
-* After your contribution has been verified, you can see your result in [this spreadsheet](#blank).
+* After your contribution has been verified, you can see your result in [this spreadsheet](https://docs.google.com/spreadsheets/d/1SR54Sy_92-51-GRJXeDD_6LrMQfgo10BrV42kbNINlg/edit?usp=sharing).
 
 ---
 
