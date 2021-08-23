@@ -95,7 +95,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 
 | #ID | Description |
 | --- | --- |
-| A1 | Write blog posts about Astar/Shiden. Use your own words and share our uniqueness. |
+| A1 | Write blog posts about Astar/Shiden. Use your own words and share our uniqueness. Translations are also part of this task! |
 | A2 | Creating interesting memes. Creating interesting memes about Astar/Shiden. You can tweet it and tag @AstarNetwork |
 | A3 | Create a video about Astar/Shiden Network. |
 | A4 | Organize meetup about Astar/Shiden. e.g., Zoom meeting, AMA. |
