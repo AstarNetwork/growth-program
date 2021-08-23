@@ -101,6 +101,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 | A4 | Organize meetup about Astar/Shiden. e.g., Zoom meeting, AMA. |
 | A5 | Social engagement. Invite people to follow our Twitter, Telegram,  Discord, or LinkedIn. Log your work with the following details on Github: 1. Share the post link or message link of your invitation. 2. Describe the community and its reachable audience size. Please do not SPAM people. Be informative, friendly, and helpful.|
 | A6 | Tutorial / Step-by-step guides to help developers or community. |
-| A7 | Freestyle, be creative, and show your skills. |
+| A7 | Coding, development work for the Astar ecosystem. |
+| A8 | Freestyle, be creative, and show your skills. |
 
 
