@@ -34,6 +34,7 @@ Astar Network is a Multi-Chain decentralized application layer on Polkadot that 
 ## Criteria
 * Good understanding of Astar vision, features and latest developments.
 * Experience with community engagement on social media (Telegram, Discord, meetups).
+* Engaged in our community.
 * Interested in growing & educating the community for Astar ecosystem & Web3.0.
 * Committed to helping Astar Network become a community owned blockchain.
 
