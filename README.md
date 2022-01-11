@@ -85,7 +85,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 ## Basic Task (Mandatory)
 | ID | Description | KPI | Max Points |
 | --- | --- | --- | --- |
-| CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Dicord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link | Interaction and Growth | 55 |
+| CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Dicord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link | Interaction & Growth | 55 |
 
 ## Suplementary Tasks (Choose up to 3 tasks/month)
 | ID | Description | Required Quantity | KPI | Max Points |
@@ -105,7 +105,7 @@ For any other types of contribution that is not listed above, please reach out t
 
 ---
 
-Please submit your contribution by creating an issue on this repository latest by the 3rd day of the following month. Any late submission will not be accepted.
+Please submit your contribution by creating an issue on this repository latest by the **3rd day** of the following month. Any late submission will not be accepted.
 
 **Report Format Example**
 
