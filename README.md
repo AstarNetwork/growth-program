@@ -68,29 +68,6 @@ Everyone starts off as a candidate. When your application is approved you will b
 
 ---
 
-# Campaigns and Tasks
-## Campaigns
-
-| #ID | Description |
-| --- | --- |
-| C1 | Builders program - promote Astar with projects, developers. Create the interest with projects and developers to build in our ecosystem. Create a Telegram group with you, projects leaders, Maarten, and Sota. |
-| C2 | Community Management - only for official Ambassadors (please share your stats every quarter) |
-
-
-## Tasks
-
-| #ID | Description |
-| --- | --- |
-| A1 | Write blog posts about Astar/Shiden. Use your own words and share our uniqueness. Translations are also part of this task! |
-| ~~A2~~ | ~~Creating interesting memes. Creating interesting memes about Astar/Shiden. You can tweet it and tag @AstarNetwork~~ |
-| A3 | Create a video about Astar/Shiden Network. |
-| A4 | Organize meetup about Astar/Shiden. e.g., Zoom meeting, AMA. |
-| A5 | Social engagement - Twitter, Telegram. Invite people to follow our Twitter, Telegram,  Discord, or LinkedIn. Log your work with the following details on Github: 1. Share the post link or message link of your invitation. 2. Describe the community and its reachable audience size. Please do not SPAM people. Be informative, friendly, and helpful. Only monthly reports!|
-| A6 | Tutorial / Step-by-step guides to help developers or community. |
-| A7 | Coding, bug hunting, development work for the Astar ecosystem. |
-| A8 | Freestyle, be creative, and show your skills. |
-
-
 # Ambassador Reward Program - Updated January 2022
 ## How does the program work?
 1. There will be basic task and supplementary tasks every month.
@@ -119,12 +96,15 @@ Everyone starts off as a candidate. When your application is approved you will b
 | TT | Tutorial - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
 | BH | Bug Hunting - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month | Quality | 15 |
 | MU | Meetup - Organize an online/phisical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 15 |
-| BP | Builders Program - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the task to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains | 1 per month | Quality  & Success | 15 | CW | Creative work - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | 15 | 
+| BP | Builders Program - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the task to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains | 1 per month | Quality  & Success | 15 
 | DW | Development work and coding. Please reach out to use before proceeding with the task | TBA | TBA | TBA |
+| CW | Creative work - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | 15 | 
+
+For any other types of contribution that is not listed above, please reach out to the team 
 
 Please submit your contribution by creating an issue on this repository latest by the 3rd of the following month. Any late submission will not be accepted.
 
-Report Format Example:
+**Report Format Example**
 
 Title: January Contribution
 
