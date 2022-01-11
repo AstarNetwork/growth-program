@@ -117,15 +117,15 @@ Discord Username: @ToTheMoon#1111
 SDN Wallet Address: YME2HxqwpqpVoVEedGf3m4z1wLbYF3QZSXwAZgpGmZb8j4W
 
 Contributions:
-CM
+1. CM
 Manage and support both Moon and Main community chat.
 [add statistics here]
 
-SM
+2. SM
 Created 4 memes.
 [link to memes tweet]
 
-BH
+3. BH
 Found 8 bugs
 [links to the bugs that you reported on Github]
 
