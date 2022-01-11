@@ -73,7 +73,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 1. There will be basic task and supplementary tasks every month.
 2. Basic task is mandatory and will be recurring.
 3. Supplementary is optional, which you can choose depending your skills and talent. You can choose to do **up to 3** different supplementary tasks in a month.
-4. Each task is given a specific points and you need to achieve at least 50% of the total points to qualify to receive the rewards.
+4. Each task is given specific points and you need to achieve at least 50% of the total points to qualify to receive the rewards.
 5. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
 6. If there are surplus SDN in a particular month, it will be distributed equally to those who achieved ≥90%.
 7. In the case that there is a surplus SDN and no one achieves ≥90%, the surplus SDN will be sent to the Treasury or carried forward to the next month.
@@ -129,6 +129,8 @@ Created 4 memes.
 3. BH
 Found 8 bugs
 * [links to the bugs that you reported on Github]
+
+
 
 
 
