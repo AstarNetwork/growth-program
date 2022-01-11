@@ -13,8 +13,6 @@
 
 ---
 
----
-
 # Ambassador Program
 ## Overview
 Astar Network is a Multi-Chain decentralized application layer on Polkadot that natively supports Cross Virtual Machine (X-VM) communication (Ethereum Virtual Machine, WebAssembly) and Layer2 scaling solutions (Optimistic virtual machine, ZK rollups). Our goal is to become a blockchain that is owned by the community. We cannot achieve this without your help. As such, we are on the lookout for active members of the community to help support the ecosystem, to help promote and raise awareness of Astar Network. These ambassadors will officially represent us in their respective regions and will play a key role in helping to shape the future of Astar ecosystem.
@@ -119,8 +117,10 @@ Everyone starts off as a candidate. When your application is approved you will b
 | SE | Social Media Engagement - For those do not have a great sense of humour to create memes, you can choose to create quality Tweets or any other social media posts. | 1 per week | Quality and Engagement | 15 |
 | CC | Content Creation - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
 | TT | Tutorial - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
-| BH | Bug Hunting - Find bugs on any of Astar, Shiden platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month | Quality | 15 |
+| BH | Bug Hunting - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month | Quality | 15 |
 | MU | Meetup - Organize an online meetup/AMA with your local community. Please reach out to us if you need to do a giveaway. It is best to record the meetup session. | 1 per month | Quality and Engagement | 15 |
+| BP | Builders Program - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the task to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains | 15 |
+
 
 
 
