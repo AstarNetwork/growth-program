@@ -128,7 +128,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 
 ## Suplementary Tasks (Choose up to 3 tasks/month)
 | ID | Description | Quantity | KPI | Max Points |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | SM | Serial Memer - Create interesting/funny memes and share it across social medias. Make it viral by asking the community to share and retweet. | 1 per week | Quality and Engagement | 15 |
 | SE | Social Media Engagement - For those do not have a great sense of humour to create memes, you can choose to create quality Tweets or any other social media posts. | 1 per week | Quality and Engagement | 15 |
 | CC | Content Creation - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
