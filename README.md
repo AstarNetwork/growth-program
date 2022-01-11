@@ -8,23 +8,10 @@
 
 ---
 
-- [Community rewards](#community-rewards)
 - [Ambassador program](#ambassador-program)
 - [Running campaigns and tasks](#campaigns-and-tasks)
 
 ---
-
-# Community rewards
-## Overview
-Astar is a community-driven project, and we need you to help grow our ecosystem. We have created an open growth program where every community member can join and support the Astar ecosystem. You can collect points and receive rewards through dApp staking if your contributions are valid. Joining the growth program as a community member is also the perfect way to show us that you are the Ambassador we need for the Astar ecosystem. It's also the ideal way to educate yourself about Astar and the Polkadot ecosystem.
-
-## How to contribute
-* Create an account on [Github](https://www.github.com).
-* Visit our forum for the complete [Guidelines](https://forum.astar.network/t/start-of-our-community-program/1367).
-* Look at the [running campaigns and tasks](#campaigns-and-tasks).
-* Submit your contribution. [Read here how!](https://forum.astar.network/t/start-of-our-community-program/1367)
-* After your contribution has been verified, you can see your result in [this spreadsheet](https://docs.google.com/spreadsheets/d/1SR54Sy_92-51-GRJXeDD_6LrMQfgo10BrV42kbNINlg/edit?usp=sharing).
-
 
 ---
 
