@@ -108,7 +108,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 ## Basic Task (Mandatory)
 | ID | Description | KPI | Max Points |
 | --- | --- | --- | --- |
-| CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Dicord community. Please install Combot on your Telegram channel so that you can provide the statistics | Interaction and Growth | 55 |
+| CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Dicord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link | Interaction and Growth | 55 |
 
 ## Suplementary Tasks (Choose up to 3 tasks/month)
 | ID | Description | Required Quantity | KPI | Max Points |
@@ -119,8 +119,32 @@ Everyone starts off as a candidate. When your application is approved you will b
 | TT | Tutorial - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
 | BH | Bug Hunting - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month | Quality | 15 |
 | MU | Meetup - Organize an online/phisical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 15 |
-| BP | Builders Program - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the task to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains | 1 per month | Quality  & Success | 15 | CW | Creative work - This can be infographic, animated logo, sticker packs, music, movie, etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for use on official channels. | 1 per month | 15 | 
+| BP | Builders Program - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the task to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains | 1 per month | Quality  & Success | 15 | CW | Creative work - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | 15 | 
 | DW | Development work and coding. Please reach out to use before proceeding with the task | TBA | TBA | TBA |
+
+Please submit your contribution by creating an issue on this repository latest by the 3rd of the following month. Any late submission will not be accepted.
+
+Report Format Example:
+
+Title: January Contribution
+
+Telegram Username: @ToTheMoon
+Discord Username: @ToTheMoon#1111
+SDN Wallet Address: YME2HxqwpqpVoVEedGf3m4z1wLbYF3QZSXwAZgpGmZb8j4W
+
+Contributions:
+
+CM
+Manage and support both Moon and Main community chat.
+[add statistics here]
+
+SM
+Created 4 memes.
+[link to memes tweet]
+
+BH
+Found 8 bugs
+[links to the bugs that you reported on Github]
 
 
 
