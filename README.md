@@ -97,7 +97,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 | TT | The Tutor - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
 | BH | The Bughunter - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month | Quality | 15 |
 | EM | The Event Manager - Organize an online/physical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 15 |
-| BD | The Business Developer - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the task to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains) | 1 per month | Quality  & Success | 15 
+| BD | The Business Developer - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the project to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains) | 1 per month | Quality  & Success | 15 
 | ART | The Artist - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | Quality | 15 | 
 | DEV | The Developer - Development work and coding. Please reach out to us before proceeding with the task | TBA | TBA | TBA |
 
