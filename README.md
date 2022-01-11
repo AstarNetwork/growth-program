@@ -123,10 +123,12 @@ Everyone starts off as a candidate. When your application is approved you will b
 
 ## Basic Task (Mandatory)
 | ID | Description | KPI | Max Points |
+| --- | --- | --- | --- |
 | CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Dicord community. | Interaction and Growth | 55 |
 
 ## Suplementary Tasks (Choose up to 3 tasks/month)
 | ID | Description | Quantity | KPI | Max Points |
+| --- | --- | --- | --- |
 | SM | Serial Memer - Create interesting/funny memes and share it across social medias. Make it viral by asking the community to share and retweet. | 1 per week | Quality and Engagement | 15 |
 | SE | Social Media Engagement - For those do not have a great sense of humour to create memes, you can choose to create quality Tweets or any other social media posts. | 1 per week | Quality and Engagement | 15 |
 | CC | Content Creation - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
