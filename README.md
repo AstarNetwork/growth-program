@@ -102,7 +102,11 @@ Everyone starts off as a candidate. When your application is approved you will b
 
 For any other types of contribution that is not listed above, please reach out to the team 
 
+---
+
 Please submit your contribution by creating an issue on this repository latest by the 3rd of the following month. Any late submission will not be accepted.
+
+---
 
 **Report Format Example**
 
@@ -125,12 +129,6 @@ Created 4 memes.
 BH
 Found 8 bugs
 [links to the bugs that you reported on Github]
-
-
-
-
-
-
 
 
 
