@@ -92,7 +92,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 | ID | Description | Required Quantity | KPI | Max Points |
 | --- | --- | --- | --- | --- |
 | SM | The Serial Memer - Create interesting memes and share it across social medias. Make it viral by asking the community members to share and retweet. | 1 per week | Quality & Engagement | 15 |
-| SA | The Social Media Addict - Create quality Tweets or any other social media posts. | 1 per week | Quality & Engagement | 15 |
+| SMA | The Social Media Addict - Create quality Tweets or any other social media posts. | 1 per week | Quality & Engagement | 15 |
 | CC | The Content Creator - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
 | TT | The Tutor - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
 | BH | The Bughunter - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month | Quality | 15 |
