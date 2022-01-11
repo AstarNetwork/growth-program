@@ -86,7 +86,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 ## Basic Task (Mandatory)
 | ID | Description | KPI | Max Points |
 | --- | --- | --- | --- |
-| CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Dicord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link | Interaction & Growth | 55 |
+| CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link | Interaction & Growth | 55 |
 
 ## Suplementary Tasks (Choose up to 3 tasks/month)
 | ID | Description | Required Quantity | KPI | Max Points |
@@ -119,16 +119,13 @@ Discord Username: @ToTheMoon#1111
 SDN Wallet Address: YME2HxqwpqpVoVEedGf3m4z1wLbYF3QZSXwAZgpGmZb8j4W
 
 Contributions:
-1. CM
-Manage and support both Moon and Main community chat.
+1. CM - Manage and support both Moon and Main community chat.
 * [add statistics here]
 
-2. SM
-Created 4 memes.
+2. SM - Created 4 memes.
 * [link to memes tweet]
 
-3. BH
-Found 8 bugs
+3. BH - Found 8 bugs
 * [links to the bugs that you reported on Github]
 
 
