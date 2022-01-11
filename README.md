@@ -107,3 +107,33 @@ Everyone starts off as a candidate. When your application is approved you will b
 | A8 | Freestyle, be creative, and show your skills. |
 
 
+# Ambassador Reward Program - Updated January 2022
+## How does the program work?
+1. There will be basic task and supplementary tasks every month.
+2. Basic task is mandatory and will be recurring.
+3. Supplementary is optional, which you can choose depending your skills and talent. You can choose to do up to 2 different supplementary tasks in a month.
+4. Each task is given a specific points and you need to achieve at least 50% of the total points to qualify to receive the rewards.
+5. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
+6. If there are surplus SDN in a particular month, it will be distributed equally to those who achieved ≥90%.
+7. In the case that there is a surplus SDN and no one achieves ≥90%, the surplus SDN will be sent to the Treasury or carried forward to the next month.
+8. It is **MANDATORY** for each ambassador to participate. Failure to achieve at least 50% points for a period of 3 consecutive months will result in the termination of your ambassadorship.
+9. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
+10. The reward pool comes from the [Dapp Staking Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward). The contract is getting around 400 SDN/day so we will distribute 12,000 SDN per month.
+11. When Astar dApp staking is live, we will inlcude ASTR rewards.  
+
+## Basic Task (Mandatory)
+| ID | Description | KPI | Max Points |
+| CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Dicord community. | Interaction and Growth | 55 |
+
+## Suplementary Tasks (Choose up to 3 tasks/month)
+| ID | Description | Quantity | KPI | Max Points |
+| SM | Serial Memer - Create interesting/funny memes and share it across social medias. Make it viral by asking the community to share and retweet. | 1 per week | Quality and Engagement | 15 |
+| SE | Social Media Engagement - For those do not have a great sense of humour to create memes, you can choose to create quality Tweets or any other social media posts. | 1 per week | Quality and Engagement | 15 |
+| CC | Content Creation - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
+| TT | Tutorial - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
+| BH | Bug Hunting - Find bugs on any of Astar, Shiden platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month |  
+
+
+
+
+
