@@ -98,7 +98,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 | MU | Meetup - Organize an online/phisical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 15 |
 | BP | Builders Program - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the task to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains | 1 per month | Quality  & Success | 15 
 | DW | Development work and coding. Please reach out to use before proceeding with the task | TBA | TBA | TBA |
-| CW | Creative work - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | 15 | 
+| CW | Creative work - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | Quality | 15 | 
 
 For any other types of contribution that is not listed above, please reach out to the team. 
 
