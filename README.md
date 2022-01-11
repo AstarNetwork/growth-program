@@ -72,7 +72,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 ## How does the program work?
 1. There will be basic task and supplementary tasks every month.
 2. Basic task is mandatory and will be recurring.
-3. Supplementary is optional, which you can choose depending your skills and talent. You can choose to do up to 2 different supplementary tasks in a month.
+3. Supplementary is optional, which you can choose depending your skills and talent. You can choose to do **up to 3** different supplementary tasks in a month.
 4. Each task is given a specific points and you need to achieve at least 50% of the total points to qualify to receive the rewards.
 5. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
 6. If there are surplus SDN in a particular month, it will be distributed equally to those who achieved ≥90%.
