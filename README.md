@@ -108,7 +108,7 @@ Please submit your contribution by creating an issue on this repository latest b
 
 **Report Format Example**
 
-Title: January Contribution
+Title: January 2022 Contribution
 
 Telegram Username: @ToTheMoon
 
