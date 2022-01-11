@@ -104,9 +104,7 @@ For any other types of contribution that is not listed above, please reach out t
 
 ---
 
-Please submit your contribution by creating an issue on this repository latest by the 3rd of the following month. Any late submission will not be accepted.
-
----
+Please submit your contribution by creating an issue on this repository latest by the 3rd day of the following month. Any late submission will not be accepted.
 
 **Report Format Example**
 
@@ -117,7 +115,6 @@ Discord Username: @ToTheMoon#1111
 SDN Wallet Address: YME2HxqwpqpVoVEedGf3m4z1wLbYF3QZSXwAZgpGmZb8j4W
 
 Contributions:
-
 CM
 Manage and support both Moon and Main community chat.
 [add statistics here]
