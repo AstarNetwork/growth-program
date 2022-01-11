@@ -119,15 +119,15 @@ SDN Wallet Address: YME2HxqwpqpVoVEedGf3m4z1wLbYF3QZSXwAZgpGmZb8j4W
 Contributions:
 1. CM
 Manage and support both Moon and Main community chat.
-[add statistics here]
+* [add statistics here]
 
 2. SM
 Created 4 memes.
-[link to memes tweet]
+* [link to memes tweet]
 
 3. BH
 Found 8 bugs
-[links to the bugs that you reported on Github]
+* [links to the bugs that you reported on Github]
 
 
 
