@@ -78,9 +78,8 @@ Everyone starts off as a candidate. When your application is approved you will b
 # Council
 * [Sota](https://github.com/SotaWatanabe) - Founder, director Astar ecosystem
 * [Maarten](https://github.com/fiexer) - VP of Growth Astar ecosystem
-* [Rheeunion (Rhee)](https://github.com/RHEEUNION) - Official Ambassador
-* [bld75](https://github.com/bLd75) - Official Ambassador
-* [Vlady Limes](https://github.com/vladylime) - Official Ambassador
+* [Toga Mamora](https://github.com/togamamora) - Growth Manager
+
 
 ---
 
@@ -124,7 +123,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 ## Basic Task (Mandatory)
 | ID | Description | KPI | Max Points |
 | --- | --- | --- | --- |
-| CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Dicord community. | Interaction and Growth | 55 |
+| CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Dicord community. Please install Combot on your Telegram channel so that you can provide the statistics | Interaction and Growth | 55 |
 
 ## Suplementary Tasks (Choose up to 3 tasks/month)
 | ID | Description | Quantity | KPI | Max Points |
@@ -133,7 +132,8 @@ Everyone starts off as a candidate. When your application is approved you will b
 | SE | Social Media Engagement - For those do not have a great sense of humour to create memes, you can choose to create quality Tweets or any other social media posts. | 1 per week | Quality and Engagement | 15 |
 | CC | Content Creation - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
 | TT | Tutorial - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
-| BH | Bug Hunting - Find bugs on any of Astar, Shiden platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month |  
+| BH | Bug Hunting - Find bugs on any of Astar, Shiden platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month | Quality | 15 |
+| MU | Meetup - Organize an online meetup/AMA with your local community. Please reach out to us if you need to do a giveaway. It is best to record the meetup session. | 1 per month | 15 |
 
 
 
