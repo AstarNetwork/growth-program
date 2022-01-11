@@ -91,15 +91,15 @@ Everyone starts off as a candidate. When your application is approved you will b
 ## Suplementary Tasks (Choose up to 3 tasks/month)
 | ID | Description | Required Quantity | KPI | Max Points |
 | --- | --- | --- | --- | --- |
-| SM | Serial Memer - Create interesting/funny memes and share it across social medias. Make it viral by asking the community members to share and retweet. | 1 per week | Quality $ Engagement | 15 |
-| SE | Social Media Engagement - For those do not have a great sense of humour to create memes, you can choose to create quality Tweets or any other social media posts. | 1 per week | Quality & Engagement | 15 |
-| CC | Content Creation - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
-| TT | Tutorial - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
-| BH | Bug Hunting - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month | Quality | 15 |
-| MU | Meetup - Organize an online/phisical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 15 |
-| BP | Builders Program - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the task to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains | 1 per month | Quality  & Success | 15 
-| CW | Creative work - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | Quality | 15 | 
-| DW | Development work and coding. Please reach out to use before proceeding with the task | TBA | TBA | TBA |
+| SM | The Serial Memer - Create interesting memes and share it across social medias. Make it viral by asking the community members to share and retweet. | 1 per week | Quality & Engagement | 15 |
+| SA | The Social Media Addict - Create quality Tweets or any other social media posts. | 1 per week | Quality & Engagement | 15 |
+| CC | The Content Creator - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
+| TT | The Tutor - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
+| BH | The Bughunter - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month | Quality | 15 |
+| EM | The Event Manager - Organize an online/phisical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 15 |
+| BD | The Business Developer - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the task to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains | 1 per month | Quality  & Success | 15 
+| ART | The Artist - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | Quality | 15 | 
+| DEV | The Developer - Development work and coding. Please reach out to use before proceeding with the task | TBA | TBA | TBA |
 
 
 For any other types of contribution that is not listed above, please reach out to the team. 
