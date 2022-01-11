@@ -100,7 +100,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 | DW | Development work and coding. Please reach out to use before proceeding with the task | TBA | TBA | TBA |
 | CW | Creative work - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | 15 | 
 
-For any other types of contribution that is not listed above, please reach out to the team 
+For any other types of contribution that is not listed above, please reach out to the team. 
 
 ---
 
