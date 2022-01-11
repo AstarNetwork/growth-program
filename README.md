@@ -133,7 +133,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 | CC | Content Creation - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
 | TT | Tutorial - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
 | BH | Bug Hunting - Find bugs on any of Astar, Shiden platforms. It can be a typo, grammar or technical bugs. | 5 - 10  bugs a month | Quality | 15 |
-| MU | Meetup - Organize an online meetup/AMA with your local community. Please reach out to us if you need to do a giveaway. It is best to record the meetup session. | 1 per month | 15 |
+| MU | Meetup - Organize an online meetup/AMA with your local community. Please reach out to us if you need to do a giveaway. It is best to record the meetup session. | 1 per month | Quality and Engagement | 15 |
 
 
 
