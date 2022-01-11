@@ -73,7 +73,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 1. There will be basic task and supplementary tasks every month.
 2. Basic task is mandatory and will be recurring.
 3. Supplementary is optional, which you can choose depending your skills and talent. You can choose to do **up to 3** different supplementary tasks in a month.
-4. Each task is given specific points and you need to achieve at least 50% of the total points to qualify to receive the rewards.
+4. Each task is given specific points and you need to achieve at least 40% of the total points to qualify to receive the rewards.
 5. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
 6. If there are surplus SDN in a particular month, it will be distributed equally to those who achieved ≥90%.
 7. In case that there is a surplus SDN and no one achieves ≥90%, the surplus SDN will be sent to the Treasury or carried forward to the next month.
@@ -99,7 +99,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 | EM | The Event Manager - Organize an online/phisical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 15 |
 | BD | The Business Developer - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the task to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains | 1 per month | Quality  & Success | 15 
 | ART | The Artist - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | Quality | 15 | 
-| DEV | The Developer - Development work and coding. Please reach out to use before proceeding with the task | TBA | TBA | TBA |
+| DEV | The Developer - Development work and coding. Please reach out to us before proceeding with the task | TBA | TBA | TBA |
 
 
 For any other types of contribution that is not listed above, please reach out to the team. 
