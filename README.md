@@ -99,7 +99,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 | EM | The Event Manager - Organize an online/physical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 15 |
 | BD | The Business Developer - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the project to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains) | 1 per month | Quality  & Success | 15 
 | ART | The Artist - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | Quality | 15 | 
-| DEV | The Developer - Development work and coding. Please reach out to us before proceeding with the task | TBA | TBA | TBA |
+| DEV | The Developer - Development work and coding. Please reach out to us before proceeding with the task. | TBA | TBA | TBA |
 
 
 For any other types of contribution that is not listed above, please reach out to the team. 
