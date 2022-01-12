@@ -78,7 +78,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 6. If there are surplus SDN in a particular month, it will be distributed equally to those who achieved ≥90%.
 7. In case that there is a surplus SDN and no one achieves ≥90%, the surplus SDN will be sent to the Treasury or carried forward to the next month.
 8. It is **MANDATORY** for each ambassador to participate. Failure to achieve at least 40% points for a period of 3 consecutive months will result in the termination of your ambassadorship.
-9. In case that you do a group work with other ambassadors e.g. We have 2 ambassadors from Thailand and they jointly organized a local meetup, please submit your contribution individually (stating that it is a group work). This is to avoid confusion.
+9. In case that you do a group work with other ambassadors e.g. We have 2 ambassadors from Thailand and they jointly organized a local meetup, please submit your contribution individually (stating that it is a group work). This is to avoid confusion. Points will be given individually.
 10. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
 11. The reward pool comes from the [Dapp Staking Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward). The contract is getting around 300 - 400 SDN/day so we will distribute 10,000 - 12,000 SDN per month (may change depending on how much reward is earned).
 12. When Astar dApp staking is live, we will inlcude ASTR rewards.  
