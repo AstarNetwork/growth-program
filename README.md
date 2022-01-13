@@ -70,7 +70,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 
 # Ambassador Reward Program - Updated January 2022
 ## How does the program work?
-1. There will be basic task and supplementary tasks every month.
+1. There will be basic tasks and supplementary tasks every month.
 2. Basic tasks are mandatory and will be recurring.
 3. Supplementary tasks are optional, which you can choose depending your skills and talent. You can choose to do **up to 2** different supplementary tasks in a month.
 4. Each task is given specific points and you need to achieve at least 40% of the total points to qualify to receive the rewards.
