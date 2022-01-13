@@ -123,9 +123,7 @@ Contributions:
 
 2. VSM - Twitted 4 meme.
 * [link to memes tweet]
-* [Your Twitter account stats https://analytics.twitter.com/]
-*![image](https://user-images.githubusercontent.com/37278708/149266209-de1177e6-5c98-4487-8285-b1222770ad49.png)
-
+* [Screenshot of your Twitter account stats https://analytics.twitter.com/]
 
 3. BH - Found 8 bugs
 * [links to the bugs that you reported on Github]
