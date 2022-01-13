@@ -85,19 +85,19 @@ Everyone starts off as a candidate. When your application is approved you will b
 
 ## Basic Task (Mandatory)
 | ID | Description | Required Quantity | KPI | Max Points |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link | Day to day | Interaction & Growth | 50 |
 | VSM | Viral Social Media Engagement - This is part of our strategy to create viral social media presence. Each of you is required to create short quality content or memes on Twitter or other social media platforms. Please share your Tweets with your local community and get them to retweet to increase presence. | 2 per week | Quality & Interactions | 30 |
 
 ## Suplementary Tasks (Choose up to 2 tasks/month)
 | ID | Description | Required Quantity | KPI | Max Points |
-| --- | --- | --- | --- | --- | --- |
-| CC | The Content Creator - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
-| TT | The Tutor - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
-| BH | The Bughunter - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. Bugs need to be reported on Github issue and please go through all the existing issues to find if the bug has been reported. | 5 - 10  bugs a month | Quality | 15 |
-| EM | The Event Manager - Organize an online/physical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 15 |
-| BD | The Business Developer - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the project to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains) | 1 per month | Quality  & Success | 15 
-| ART | The Artist - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | Quality | 15 | 
+| --- | --- | --- | --- | --- |
+| CC | The Content Creator - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 10 |  
+| TT | The Tutor - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 10 |
+| BH | The Bughunter - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. Bugs need to be reported on Github issue and please go through all the existing issues to find if the bug has been reported. | 5 - 10  bugs a month | Quality | 10 |
+| EM | The Event Manager - Organize an online/physical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 10 |
+| BD | The Business Developer - Reach out to projects to build on Shiden & Astar. You have to be able to pitch about Shiden/Astar before handing over the project to Sota or Maarten. Special bonus will be given when it is a native Shiden/Astar project (which means they previously have never launched on any other chains) | 1 per month | Quality  & Success | 10 | 
+| ART | The Artist - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | Quality | 10 | 
 | DEV | The Developer - Development work and coding. Please reach out to us before proceeding with the task. | TBA | TBA | TBA |
 
 
