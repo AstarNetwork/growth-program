@@ -72,7 +72,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 ## How does the program work?
 1. There will be basic task and supplementary tasks every month.
 2. Basic task is mandatory and will be recurring.
-3. Supplementary is optional, which you can choose depending your skills and talent. You can choose to do **up to 3** different supplementary tasks in a month.
+3. Supplementary is optional, which you can choose depending your skills and talent. You can choose to do **up to 2** different supplementary tasks in a month.
 4. Each task is given specific points and you need to achieve at least 40% of the total points to qualify to receive the rewards.
 5. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
 6. If there are surplus SDN in a particular month, it will be distributed equally to those who achieved ≥90%.
@@ -84,15 +84,14 @@ Everyone starts off as a candidate. When your application is approved you will b
 12. When Astar dApp staking is live, we will inlcude ASTR rewards.  
 
 ## Basic Task (Mandatory)
-| ID | Description | KPI | Max Points |
+| ID | Description | Required Quantity | KPI | Max Points |
 | --- | --- | --- | --- |
-| CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link | Interaction & Growth | 55 |
+| CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link | Day to day | Interaction & Growth | 50 |
+| VSM | Viral Social Media Engagement - This is part of our strategy to create viral social media presence. Each of you is required to create short quality content or memes on Twitter or other social media platforms. Please share your Tweets with your local community and get them to retweet to increase presence. | 2 per week | Quality & Interactions | 30 |
 
-## Suplementary Tasks (Choose up to 3 tasks/month)
+## Suplementary Tasks (Choose up to 2 tasks/month)
 | ID | Description | Required Quantity | KPI | Max Points |
 | --- | --- | --- | --- | --- |
-| SM | The Serial Memer - Create interesting memes and share it across social medias. Make it viral by asking the community members to share and retweet. | 1 per week | Quality & Engagement | 15 |
-| SMA | The Social Media Addict - Create quality Tweets or any other social media posts. | 1 per week | Quality & Engagement | 15 |
 | CC | The Content Creator - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
 | TT | The Tutor - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
 | BH | The Bughunter - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. Bugs need to be reported on Github issue and please go through all the existing issues to find if the bug has been reported. | 5 - 10  bugs a month | Quality | 15 |
