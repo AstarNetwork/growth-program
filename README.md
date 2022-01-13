@@ -91,7 +91,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 
 ## Suplementary Tasks (Choose up to 2 tasks/month)
 | ID | Description | Required Quantity | KPI | Max Points |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | CC | The Content Creator - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality, Reach & Engagement | 15 |  
 | TT | The Tutor - Write a how-to tutorial in your own words. | 1 per month | Quality & Reach | 15 |
 | BH | The Bughunter - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. Bugs need to be reported on Github issue and please go through all the existing issues to find if the bug has been reported. | 5 - 10  bugs a month | Quality | 15 |
