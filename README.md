@@ -89,7 +89,7 @@ Everyone starts off as a candidate. When your application is approved you will b
 | CM | Community Support & Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link | Day to day | Interaction & Growth | 50 |
 | VSM | Viral Social Media Engagement - This is part of our strategy to create viral social media presence. You are required to put on "Astar/Shiden Network Amabassador" on your Twitter account. We want people to know that you represent Astar & Shiden. Create short quality content or memes on Twitter or other social media platforms. Please share your tweets with your local community and get them to retweet to increase presence. The more followers you get, the more likely they will follow Shiden & Astar. You need to share your Twitter analytics (https://analytics.twitter.com/) every month.  | 2 per week | Quality & Interaction | 30 |
 
-## Suplementary Tasks (Choose up to 2 tasks/month)
+## Supplementary Tasks (Choose up to 2 tasks/month)
 | ID | Description | Required Quantity | KPI | Max Points |
 | --- | --- | --- | --- | --- |
 | CC | The Content Creator - Write and article or make a video about Shiden/Astar Network. Content has to be **ORIGINAL**. | 1 per month | Quality & Reach | 10 |  
