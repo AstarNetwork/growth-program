@@ -132,6 +132,6 @@ Contributions:
 * [link to tutorial and statistics screenshot]
 
 
-
+The rewards is visible on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1aIT5IVzN3hXJhXeW-sDRfVnNTPIdmMg1/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true)
 
 
