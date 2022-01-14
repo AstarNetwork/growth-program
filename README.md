@@ -121,12 +121,15 @@ Contributions:
 1. CM - Manage and support both Moon and Main community chat.
 * [add statistics here]
 
-2. VSM - Twitted 4 meme.
+2. VSM - Twitted 4 memes.
 * [link to memes tweet]
 * [Screenshot of your Twitter account stats https://analytics.twitter.com/]
 
 3. BH - Found 8 bugs
 * [links to the bugs that you reported on Github]
+
+4. TT - Wrote a tutorial
+* [link to tutorial and statistics screenshot]
 
 
 
