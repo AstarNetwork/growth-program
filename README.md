@@ -1,4 +1,4 @@
-# Aster ecosystem Growth
+# Astar ecosystem Growth
 
 <p align="center">
   <img src="astar.png" style="width:1000px";>
