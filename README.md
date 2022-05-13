@@ -1,4 +1,4 @@
-# Astar ecosystem Growth
+# Astar Ambassador program
 
 <p align="center">
   <img src="astar.png" style="width:1000px";>
@@ -15,7 +15,7 @@
 
 # Ambassador Program
 ## Overview
-Astar Network is a Multi-Chain decentralized application layer on Polkadot that natively supports Cross Virtual Machine (X-VM) communication (Ethereum Virtual Machine, WebAssembly) and Layer2 scaling solutions (Optimistic virtual machine, ZK rollups). Our goal is to become a blockchain that is owned by the community. We cannot achieve this without your help. As such, we are on the lookout for active members of the community to help support the ecosystem, to help promote and raise awareness of Astar Network. These ambassadors will officially represent us in their respective regions and will play a key role in helping to shape the future of Astar ecosystem.
+Astar Network is the #1 TVL Smart Contract Hub for WASM + EVM on Polkadot. Since winning its Parachain auction in January 2022, Astar Network has become the top Parachain in the Polkadot ecosystem in Total Value Locked and most Ethereum assets transferred over. Astar Network is the leading smart contract hub that connects the Polkadot ecosystem to Ethereum, Cosmos, and all major layer 1 blockchains. Astar Network supports dApps using multiple virtual machines — namely WASM and EVM — and offers the best technology solutions and financial incentives via its Build2Earn and Astar Incubation Program for Web3 developers to build on top of a secure, scalable, and interoperable blockchain.
 
 ## Criteria
 * Good understanding of Astar vision, features and latest developments.
@@ -41,11 +41,6 @@ Astar Network is a Multi-Chain decentralized application layer on Polkadot that 
 * Limited edition freebies e.g. NFTs that are reserved only for our ambassadors!
 * Hangout with us :)
 
-# Roles
-Candidate -> Ambassador -> Senior Ambassador -> Regional Head
-
-Everyone starts off as a candidate. When your application is approved you will become an apprentice ambassador for one quarter. As time progresses, the team will evaluate your progress, commitment and performance to determine if you are ready to take on more responsibility as a fully fledged ambassador. Eventually you will be promoted to a senior ambassador and finally regional head where you will oversee and be responsible for all activities that happen in your region. Your role will also be reflected accordingly in our official Telegram and Discord channels.
-
 # Evaluation
 * We value early supports of the program.
 * We value your area of expertise.
@@ -59,12 +54,6 @@ Everyone starts off as a candidate. When your application is approved you will b
 
 # Apply Now
 [Click here to apply!](https://share.hsforms.com/1_Qyt1oetQZCewiCKkRhKewc2ryh)
-
-# Council
-* [Sota](https://github.com/SotaWatanabe) - Founder, director Astar ecosystem
-* [Maarten](https://github.com/fiexer) - VP of Growth Astar ecosystem
-* [Toga Mamora](https://github.com/togamamora) - Growth Manager
-
 
 ---
 
