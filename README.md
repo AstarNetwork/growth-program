@@ -53,7 +53,7 @@ Astar Network is the #1 TVL Smart Contract Hub for WASM + EVM on Polkadot. Since
 * We value your referrer and your future referrals.
 
 # Apply Now
-[Click here to apply!](https://share.hsforms.com/1_Qyt1oetQZCewiCKkRhKewc2ryh)
+[Click here to apply!](https://forms.gle/pr9ehzrh9Y7N3ULB6)
 
 ---
 
