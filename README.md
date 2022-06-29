@@ -9,7 +9,6 @@
 ---
 
 - [Ambassador program](#ambassador-program)
-- [Running campaigns and tasks](#campaigns-and-tasks)
 
 ---
 
