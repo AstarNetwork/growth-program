@@ -14,7 +14,11 @@
 
 # Ambassador Program
 ## Overview
-Astar Network is the #1 TVL Smart Contract Hub for WASM + EVM on Polkadot. Since winning its Parachain auction in January 2022, Astar Network has become the top Parachain in the Polkadot ecosystem in Total Value Locked and most Ethereum assets transferred over. Astar Network is the leading smart contract hub that connects the Polkadot ecosystem to Ethereum, Cosmos, and all major layer 1 blockchains. Astar Network supports dApps using multiple virtual machines — namely WASM and EVM — and offers the best technology solutions and financial incentives via its Build2Earn and Astar Incubation Program for Web3 developers to build on top of a secure, scalable, and interoperable blockchain.
+[Astar Network](https://astar.network/) – the Innovation Hub on Polkadot.
+
+Astar Network supports the building of dApps with EVM and WASM smart contracts and offers developers true interoperability, with cross-consensus messaging (XCM). We are made by developers and for developers. Astar’s unique Build2Earn model empowers developers to get paid through a dApp staking mechanism for the code they write and dApps they build.
+
+Astar’s vibrant ecosystem has become Polkadot’s leading Parachain globally, supported by all major exchanges and Tier 1 VCs. Astar offers the flexibility of all Ethereum and WASM toolings for developers to start building their dApps. To accelerate growth on Polkadot and Kusama Networks, Astar Space Labs offers an Incubation Hub for top TVL dApps.
 
 ## Criteria
 * Good understanding of Astar vision, features and latest developments.
