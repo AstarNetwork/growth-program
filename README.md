@@ -16,9 +16,7 @@
 ## Overview
 [Astar Network](https://astar.network/) – the Innovation Hub on Polkadot.
 
-Astar Network supports the building of dApps with EVM and WASM smart contracts and offers developers true interoperability, with cross-consensus messaging (XCM). We are made by developers and for developers. Astar’s unique Build2Earn model empowers developers to get paid through a dApp staking mechanism for the code they write and dApps they build.
-
-Astar’s vibrant ecosystem has become Polkadot’s leading Parachain globally, supported by all major exchanges and Tier 1 VCs. Astar offers the flexibility of all Ethereum and WASM toolings for developers to start building their dApps. To accelerate growth on Polkadot and Kusama Networks, Astar Space Labs offers an Incubation Hub for top TVL dApps.
+Astar Network supports the building of dApps with EVM and WASM smart contracts and offers developers true interoperability, with cross-consensus messaging (XCM). We are made by developers and for developers. Astar’s unique Build2Earn model empowers developers to get paid through a dApp staking mechanism for the code they write and dApps they build. Astar’s vibrant ecosystem has become Polkadot’s leading Parachain globally, supported by all major exchanges and Tier 1 VCs. Astar offers the flexibility of all Ethereum and WASM toolings for developers to start building their dApps. 
 
 ## Criteria
 * Good understanding of Astar vision, features and latest developments.
