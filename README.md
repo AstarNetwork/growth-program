@@ -67,10 +67,9 @@ Astar Network supports the building of dApps with EVM and WASM smart contracts a
 5. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
 6. If there are surplus SDN in a particular month, it will be distributed equally to those who achieved ≥90%.
 7. In case that there is a surplus SDN and no one achieves ≥90%, the surplus SDN will be sent to the Treasury or carried forward to the next month.
-8. It is **MANDATORY** for each ambassador to participate. Failure to achieve at least 40% points for a period of 3 consecutive months will result in the termination of your ambassadorship.
-9. In case that you do a group work with other ambassadors e.g. We have 2 ambassadors from Thailand and they jointly organized a local meetup, please submit your contribution individually (stating that it is a group work). This is to avoid confusion. Points will be given individually.
-10. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
-11. The reward pool comes from dApp staking: [SDN Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward) and [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc). The reward pool may change depending on how much it is getting.
+8. In case that you do a group work with other ambassadors e.g. We have 2 ambassadors from Thailand and they jointly organized a local meetup, please submit your contribution individually (stating that it is a group work). This is to avoid confusion. Points will be given individually.
+9. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
+10. The reward pool comes from dApp staking: [SDN Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward) and [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc). The reward pool may change depending on how much it is getting.
 
 ## Basic Task (Mandatory)
 | ID | Description | Required Quantity | KPI | Max Points |
