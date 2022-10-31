@@ -8,7 +8,7 @@
 4. After the 2-month period, we will do an assessment on all your contributions. If you do well, you will start receiving the monthly rewards.
 5. The reward pool comes from dApp staking pool: [SDN Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward) and [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc).
 6. This program is not about getting rewarded. It is more about learning, participating and contributing to the growth of Astar & Shiden Network. 
-7. This program is not a f orm of an employment. It is more like an initiative to encourage the community to learn ink! and WASM.
+7. This program is not a form of an employment. It is more like an initiative to encourage the community to learn ink! and WASM.
 
 ---
 
