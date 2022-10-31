@@ -15,7 +15,7 @@
 ## What You Need To Do As A Technical Ambassador
 
 **Learn & Share What You Learn**
-1. This program is not a school but a place for you to learn independently.
+1. This program is not a school but a place for you to be self-motivated to learn.
 2. You will be given an access to a closed Discord group where you can interact with other Ambassadors and the Core Developers of Astar Network.
 3. While you are learning, please share what you learn on social medias. Make regular tweets and how-to tutorial articles.
 4. Help other Ambassadors in the group so that all of you can grow.
@@ -41,7 +41,7 @@
 
 **Build Your Reputation**
 1. Be the OG of ink! and WASM.
-2. By sharing what you learn, you will earn the attention of the community, VCs and everybody in the industry.
+2. By sharing what you learn, you will earn the attention of the community or even VCs in the industry.
 3. If your content is of high quality, our marketing team will engage and promote it.
 
 
