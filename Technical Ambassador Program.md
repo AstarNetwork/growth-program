@@ -2,7 +2,7 @@
 
 ---
 ## How does the program work?
-1. This program is designed for technical students and young developers who want to learn ink! & WASM and contribute to the growth of Astar Network.
+1. This program is designed for technical students and young developers who want to learn ink! & WASM and contribute to the growth of Astar & Shiden Network.
 2. Everyone is welcomed to apply but seats are limited. So please do your best during the interview to get shortlisted.
 3. Shortlisted candicates will be given a 2-month trial period before the rewards kick in.
 4. After the 2-month period, we will do an assessment on all your contributions. If you do well, you will start receiving the monthly rewards.
