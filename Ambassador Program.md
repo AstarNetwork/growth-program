@@ -1,8 +1,6 @@
 # AMBASSADOR PROGRAM
 
 ---
-
-# Ambassador Reward Program
 ## How does the program work?
 1. There will be basic tasks and supplementary tasks every month.
 2. Basic tasks are mandatory and will be recurring.
