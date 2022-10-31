@@ -23,17 +23,17 @@ Astar Network supports the building of dApps with EVM and WASM smart contracts a
 
 ## Expectations
 * Foster and grow a strong community in your respective region.
-* Be transparent about your contributions and tasks (add tasks to Hubspot).
+* Be transparent about your contributions and tasks.
 * Translation of articles into your native language.
-* Organisation of meetups for the local community (once Covid settles down).
+* Organisation of meetups for the local community.
 * Attend events and conferences on behalf of the team.
 * Attend monthly Ambassador call + one-on-one meeting every quarter.
 
 ## Benefits
-* Earn passive income through dapp staking!
-* Be a part of the builders program committee and help to grow our ecosystem!
+* Earn passive income through dApp staking!
+* Be a part of the governance council and help to grow our ecosystem!
 * Build a reputation (and maybe even your future career!) for yourself!
-* Work along side notable people / projects in this space!
+* Work along side notable people/projects in this space!
 * Attend local event and conferences that are sponsored by the team!
 * Be an early adopter of the technology.
 * Limited edition freebies e.g. NFTs that are reserved only for our ambassadors!
