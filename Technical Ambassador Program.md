@@ -60,4 +60,4 @@
 
 If you think you would like to learn and contribute to the growth of Astar & Shiden Network, hit the apply button below!
 
-[Click here to apply!](https://docs.google.com/forms/d/1it7cqUmrYqDLSYSPZa5tKSFkaz1UtIMhHg6jTgwEGNQ/edit?usp=drivesdk)
+[Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLSfgRE_IwRfJ7DcmLXKN6L_Zr9Q-eHZwqyFv9-4jOHQBYF9wvQ/viewform?usp=pp_url)
