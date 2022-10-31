@@ -31,16 +31,19 @@
 2. As you grow, you will eventually be leader.
 3. Organize local meetups to help the adoption of ink! & WASM.
 
+
 ## What Can You Expect As A Technical Ambassador
 
 **First Hand Info On The Evolving Technology Of Astar Network**
 1. You will be in direct contact with the Core Developers of Astar Network. 
 2. You will have a private monthly meeting session with the Core Developers of Astar Network.
 
+
 **Build Your Reputation**
 1. Be the OG of ink! and WASM.
 2. By sharing what you learn, you will earn the attention of the community, VCs and everybody in the industry.
 3. If your content is of high quality, our marketing team will engage and promote it.
+
 
 **Earn**
 1. As you progress, you will be rewarded with SDN & ASTR tokens for you contribution.
