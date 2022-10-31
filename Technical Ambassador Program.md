@@ -17,14 +17,14 @@
 **Learn & Share What You Learn**
 1. This program is not a school but a place for you to learn independently.
 2. You will be given an access to a closed Discord group where you can interact with other Ambassadors and the Core Developers of Astar Network.
-3. While you are learning, please share you learn on social medias. Make regular tweets and how-to tutorial articles.
+3. While you are learning, please share what you learn on social medias. Make regular tweets and how-to tutorial articles.
 4. Help other Ambassadors in the group so that all of you can grow. Working in group is easier to learn.
 5. When you help others, you learn better.
   
 **Build Stuff**
 1. As you learn, it is encouraged that you build stuff. Shiden Network is already supporting WASM, so feel free to build.
 2. You can work alone or work in a group. 
-3. Come up with something useful. Things does not have to be complicated. Build simple but useful products.
+3. Come up with something useful. Things do not have to be complicated. Build simple but useful products.
 
 **Build A Local Developers Community**
 1. You are encouraged to build a developers community in your country/region.
