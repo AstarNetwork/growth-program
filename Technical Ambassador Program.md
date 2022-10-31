@@ -18,7 +18,7 @@
 1. This program is not a school but a place for you to learn independently.
 2. You will be given an access to a closed Discord group where you can interact with other Ambassadors and the Core Developers of Astar Network.
 3. While you are learning, please share what you learn on social medias. Make regular tweets and how-to tutorial articles.
-4. Help other Ambassadors in the group so that all of you can grow. Working in group is easier to learn.
+4. Help other Ambassadors in the group so that all of you can grow.
 5. When you help others, you learn better.
   
 **Build Stuff**
