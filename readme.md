@@ -1,4 +1,4 @@
-# Astar Ambassador program
+# Astar Ambassador Program
 
 <p align="center">
   <img src="astar.png" style="width:1000px";>
