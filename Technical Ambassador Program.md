@@ -7,7 +7,7 @@
 3. Shortlisted candicates will be given a 2-month trial period before the rewards kick in.
 4. After the 2-month period, we will do an assessment on all your contributions. If you do well, you will start receiving the monthly rewards.
 5. The reward pool comes from dApp staking pool: [SDN Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward) and [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc).
-6. Since this program is newly launched, more details on the rewards will be released later. For the time being, you can expect to earn between $200-500/month. But this program is not about getting rewarded. It is more about learning, participating and contributing to the growth of Astar & Shiden Network. 
+6. This program is not about getting rewarded. It is more about learning, participating and contributing to the growth of Astar & Shiden Network. 
 
 ---
 
@@ -41,9 +41,9 @@
 3. If your content is of high quality, our marketing team will engage and promote it.
 
 **Earn**
-1. As you progress, you will be rewarded with SDN & ASTR tokens for you contribution. The reward pool comes from dApp staking: [SDN Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward) and [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc).
+1. As you progress, you will be rewarded with SDN & ASTR tokens for you contribution.
 2. The amount that you get depends on the quality & reach. For the time being, you can expect to earn between $100-500/month after the trial period.
-3. As your reputation gets better, you may get incubated by Shiden DAO to build unique products and earn a grant from Shiden DAO's treasury.
+3. As your reputation gets better, you may get incubated by Shiden DAO to build unique products on Shiden and earn a grant from Shiden DAO's treasury.
 
 
 # Apply Now
