@@ -13,31 +13,32 @@
 
 ## What You Need To Do As A Technical Ambassador
 
-**Learn & Share What You Have Learnt**
+**Learn & Share What You Learn**
 1. This program is not a school but a place for you to learn independently.
 2. You will be given an access to a closed Discord group where you can interact with other Ambassadors and the Core Developers of Astar Network.
 3. While you are learning, please share you learn on social medias. Make regular tweets and how-to tutorial articles.
 4. Help other Ambassadors in the group so that all of you can grow. Working in group is easier to learn.
+5. When you help others, you learn better.
   
 **Build Stuff**
 1. As you learn, it is encouraged that you build stuff. Shiden Network is already supporting WASM, so feel free to build.
 2. You can work alone or work in a group. 
-3. Come up with something useful. Things does not have to be complicated. Simple but useful products.
+3. Come up with something useful. Things does not have to be complicated. Build simple but useful products.
 
-**Build A Local Community Of Developers**
+**Build A Local Developers Community**
 1. You are encouraged to build a developers community in your country/region.
 2. As you grow, you will eventually be leader.
-3. Organize local meetups to help growth the adoption of ink! & WASM.
+3. Organize local meetups to help the adoption of ink! & WASM.
 
 ## What Can You Expect As A Technical Ambassador
 
 **First Hand Info On The Evolving Technology Of Astar Network**
 1. You will be in direct contact with the Core Developers of Astar Network. 
-2. You will have a private monthly meeting sessions with the Core Developers of Astar Network.
+2. You will have a private monthly meeting session with the Core Developers of Astar Network.
 
 **Build Your Reputation**
 1. Be the OG of ink! and WASM.
-2. By sharing what you learn, you will earn the attention of the community.
+2. By sharing what you learn, you will earn the attention of the community, VCs and everybody in the industry.
 3. If your content is of high quality, our marketing team will engage and promote it.
 
 **Earn**
@@ -45,6 +46,9 @@
 2. The amount that you get depends on the quality & reach. For the time being, you can expect to earn between $100-500/month after the trial period.
 3. As your reputation gets better, you may get incubated by Shiden DAO to build unique products on Shiden and earn a grant from Shiden DAO's treasury.
 
+---
+
+If you think you would like to learn and contribute to the growth of Astar & Shiden Network, hit the apply button below!
 
 # Apply Now
 [Click here to apply!]
