@@ -8,10 +8,6 @@
 
 ---
 
-- [Ambassador program](#ambassador-program)
-
----
-
 # Ambassador Program
 ## Overview
 [Astar Network](https://astar.network/) – the Innovation Hub on Polkadot.
