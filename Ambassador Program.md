@@ -2,17 +2,18 @@
 
 ---
 ## How does the program work?
-1. All Ambassadors are encouraged to paricipate in peforming the tasks. Lack of participation may result in the revocation of your Ambassador role.
-2. There will be basic tasks and supplementary tasks every month.
-3. Basic tasks are mandatory and will be recurring.
-4. Supplementary tasks are optional, which you can choose depending on your skills and talent. You can choose to do **up to 2** different supplementary tasks in a month.
-5. Each task is given specific points and you need to achieve at least 40% of the total points to qualify to receive the rewards.
-6. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
-7. If there are surplus SDN in a particular month, it will be distributed equally to those who achieved ≥90%.
-8. In case that there is a surplus SDN and no one achieves ≥90%, the surplus SDN will be sent to the Treasury or carried forward to the next month.
-9. In case that you do a group work with other ambassadors e.g. We have 2 ambassadors from Thailand and they jointly organized a local meetup, please submit your contribution individually (stating that it is a group work). This is to avoid confusion. Points will be given individually.
-10. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
-11. The reward pool comes from dApp staking: [SDN Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward) and [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc). The reward pool may change depending on how much it is getting.
+1. This program is designed for community members that want to contribute to the growth of Astar Network.
+2. All Ambassadors are encouraged to paricipate in peforming the tasks. Lack of participation may result in the revocation of your Ambassador role.
+3. There will be basic tasks and supplementary tasks every month.
+4. Basic tasks are mandatory and will be recurring.
+5. Supplementary tasks are optional, which you can choose depending on your skills and talent. You can choose to do **up to 2** different supplementary tasks in a month.
+6. Each task is given specific points and you need to achieve at least 40% of the total points to qualify to receive the rewards.
+7. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
+8. If there are surplus SDN & ASTR in a particular month, it will be distributed equally to those who achieved ≥90%.
+9. In case that there are surplus SDN & ASTR and no one achieves ≥90%, the surplus SDN will be sent to the Treasury or carried forward to the next month.
+10. In case that you do a group work with other ambassadors e.g. We have 2 ambassadors from Thailand and they jointly organized a local meetup, please submit your contribution individually (stating that it is a group work). This is to avoid confusion. Points will be given individually.
+11. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
+12. The reward pool comes from dApp staking: [SDN Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward) and [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc). The reward pool may change depending on how much it is getting.
 
 ## Basic Task (Mandatory)
 | ID | Description | Required Quantity | KPI | Max Points |
