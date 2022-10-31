@@ -47,7 +47,7 @@
 
 **Earn**
 1. As you progress, you will be rewarded with SDN & ASTR tokens for you contribution.
-2. The amount that you get depends on the quality & reach of your content and product. You can expect to earn between $100-500/month after the trial period.
+2. The amount that you get depends on the quality of your contribution. You can expect to earn between $100-500/month after the trial period.
 3. As your reputation gets better, you may get incubated by Shiden DAO to build unique products on Shiden and earn a grant from Shiden DAO's treasury.
 
 ---
