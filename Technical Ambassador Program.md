@@ -61,3 +61,53 @@
 If you think you would like to learn and contribute to the growth of Astar & Shiden Network, hit the apply button below!
 
 [Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLSfgRE_IwRfJ7DcmLXKN6L_Zr9Q-eHZwqyFv9-4jOHQBYF9wvQ/viewform?usp=pp_url)
+
+---
+
+## Reward Program
+ink! Recruits that have been promoted to ink! OGs can participate in this reward program by doing any of the tasks listed below.
+
+| ID | Description | Required Quantity | KPI | Max Points |
+| --- | --- | --- | --- | --- |
+| DS | Developer Support - This is the most important task since many developers are new to ink! and your interaction in much needed. Support the builders and developers on `#wasm-smart-contract` channel on Astar Discord. This includes answering their questions and helping them to solve their problems. | Day to day | Interaction | 40 |
+| CC | Content Creation - Write an article or produce a video to tell the whole world about ink! and WASM. Be creative. | 1 per month| Quality & Reach| 20 |
+| TT | Tutorial - Write an article or produce a tutorial video to tell the whole world about how to on ink! and WASM. | 1 per month| Quality & Reach| 20 |
+| EM | Event Manager - Organize an irl or online meetup/talks with a group of developers to discuss topics related to ink! and WASM. If you require a budget to cover the expenses of the irl meetup, please let us know in advance. | 1 per month| Quality & Reach| 20 |
+
+*Additional bonus will be considered if you start your own local ink! & WASM developer community.
+
+You are required to submit a monthly report on your activities by creating an issue [HERE](https://github.com/AstarNetwork/growth-program/issues)
+
+---
+## Report Format Example
+
+Title: January 2023 Contribution - Tech. Ambassador
+
+Telegram Username: @ToTheMoon
+
+Discord Username: @ToTheMoon#1111
+
+ASTR Wallet Address: YME2HxqwpqpVoVEedGf3m4z1wLbYF3QZSXwAZgpGmZb8j4W
+
+Contributions:
+1. DS - Support developers on Astar Discord.
+* [add screenshots of your interaction]
+
+2. CC - Wrote an aticle.
+* [link to article]
+* [screenshot of your Medium article statistics]
+
+3. TT - Wrote A Tutorial
+* [links to the tutorial]
+
+4. EM - Held a Twitter space with developers community from Brazil 
+* [link to the Twitter Space]
+
+---
+
+## Reward Pool & Distribution
+1. The reward pool comes from dApp staking: [SDN Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward) and [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc).
+2. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
+3. The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1PNAzXBPpj-iwT3-9agzb4zg9VVYs49JT/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true) 
+
+---
