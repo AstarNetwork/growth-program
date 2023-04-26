@@ -28,6 +28,6 @@ Rewards are paid in $ASTR tokens.
  2. The available tasks will come with the UI DAO tag.
  3. If you choose to take the task, please leave a comment and your ASTR wallet address.
  4. Complete the task by creating a PR within the expected time.
- 5. Wait for the review and your rewards.
- 6. The rewards criteria is based on the Tier and the cleanliness of your codes.
+ 5. The codes will be reviewed and a rating of 1-5 will be given. 1 being the lowest and 5 being the highest.
+6. You shall receive the rewards based on the difficulty tier and rating.
  
