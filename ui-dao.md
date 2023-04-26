@@ -24,7 +24,7 @@ Astar wants to become a DAO at one point, therefore having the Ambassadors to pa
 Rewards are paid in $ASTR tokens.
  
  ## Guide For Participants
- 1. Look for the tasks [HERE](https://github.com/AstarNetwork/astar-apps/issues).
+ 1. Look for the tasks [HERE](https://github.com/AstarNetwork/astar-apps/labels/UI%20DAO).
  2. The available tasks will come with the UI DAO tag.
  3. If you choose to take the task, please leave a comment and your ASTR wallet address.
  4. Complete the task by creating a PR within the expected time.
