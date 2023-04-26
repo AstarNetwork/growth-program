@@ -17,9 +17,9 @@ Astar wants to become a DAO at one point, therefore having the Ambassadors to pa
 
 | Tier | Difficulty | Expected Time Of Completion | Rewards | 
 | --- | --- | --- | --- |
-| 1 | Very simple tasks | 1/2-1 day | $100 |  
-| 2 | Mid complexity tasks | 2-3 days | $400 |
-| 3 | Complex tasks | Up to 5 days | $800 |
+| 1 | Very simple tasks | 1/2-1 day | up to $100 |  
+| 2 | Mid complexity tasks | 2-3 days | up to $400 |
+| 3 | Complex tasks | Up to 5 days | up to $800 |
 
 Rewards are paid in $ASTR tokens.
  
@@ -29,4 +29,5 @@ Rewards are paid in $ASTR tokens.
  3. If you choose to take the task, please leave a comment and your ASTR wallet address.
  4. Complete the task by creating a PR within the expected time.
  5. Wait for the review and your rewards.
+ 6. The rewards criteria are based on the Tier and cleanliness of your codes.
  
