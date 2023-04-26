@@ -29,5 +29,5 @@ Rewards are paid in $ASTR tokens.
  3. If you choose to take the task, please leave a comment and your ASTR wallet address.
  4. Complete the task by creating a PR within the expected time.
  5. Wait for the review and your rewards.
- 6. The rewards criteria are based on the Tier and cleanliness of your codes.
+ 6. The rewards criteria is based on the Tier and the cleanliness of your codes.
  
