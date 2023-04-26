@@ -8,7 +8,7 @@ This is a program that the existing Ambassadors can participate by making UI fix
 Astar wants to become a DAO at one point, therefore having the Ambassadors to participate in the technical tasks is important. The UI is a good place to start with and we will eventually open this program to the public and add more critical tasks.
 
 ## How
-1. All the tasks will be published [here](https://github.com/AstarNetwork/astar-apps/issues).
+1. All the tasks will be published [HERE](https://github.com/AstarNetwork/astar-apps/issues).
 2. Each task comes with its own Tier according to the table below.
 3. Ambassadors can pick the task that they want to do on a first come first serve basis. 
 4. If you have picked your task, you must complete it within the expected time. 
@@ -23,7 +23,7 @@ Astar wants to become a DAO at one point, therefore having the Ambassadors to pa
 Rewards are paid in $ASTR tokens.
  
  ## Guide For Participants
- 1. Look for the tasks [here](https://github.com/AstarNetwork/astar-apps/issues).
+ 1. Look for the tasks [HERE](https://github.com/AstarNetwork/astar-apps/issues).
  2. The available tasks will come with the UI DAO tag.
  3. If you choose to take the task, please leave a comment.
  4. Complete the task by creating a PR within the expected time.
