@@ -20,6 +20,7 @@ Astar wants to become a DAO at one point, therefore having the Ambassadors to pa
 | 1 | Very simple tasks | 1/2-1 day | $100 |  
 | 2 | Mid complexity tasks | 2-3 days | $400 |
 | 3 | Complex tasks | Up to 5 days | $800 |
+
 Rewards are paid in $ASTR tokens.
  
  ## Guide For Participants
