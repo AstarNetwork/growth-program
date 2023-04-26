@@ -53,3 +53,4 @@ Astar Network supports the building of dApps with EVM and WASM smart contracts a
 There are 2 different programs that we offer:
 1. Ambassador Program: For non-technical community members. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/Ambassador%20Program.md). 
 2. Technical Ambassador Program: For technical community members. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/Technical%20Ambassador%20Program.md).
+3. UI DAI. See [HERE}(https://github.com/AstarNetwork/growth-program/blob/main/ui-dao.md)
