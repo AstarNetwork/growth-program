@@ -29,7 +29,7 @@ Rewards are paid in $ASTR tokens.
 | --- | --- | --- | --- |
 | 1 | Very simple tasks | 1-2 day | up to $100 |  
 | 2 | Mid complexity tasks | 4-6 days | up to $300 |
-| 3 | Complex tasks | Up to 5 -10 days | up to $500 |
+| 3 | Complex tasks | 5 -10 days | up to $500 |
 
 Rewards are paid in $ASTR tokens.
 
