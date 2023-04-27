@@ -15,12 +15,6 @@ Astar wants to become a DAO at one point, therefore having the Ambassadors to pa
 5. Failure to complete your task will put you into suspension for 2 months. 
 6. The Core Developers will review the completed tasks and the rewards will be distributed within 2 weeks.  
 
-| Tier | Difficulty | Expected Time Of Completion | Rewards | 
-| --- | --- | --- | --- |
-| 1 | Very simple tasks | 1/2-1 day | up to $100 |  
-| 2 | Mid complexity tasks | 2-3 days | up to $400 |
-| 3 | Complex tasks | Up to 5 days | up to $800 |
-
 Rewards are paid in $ASTR tokens.
  
  ## Guide For Participants
@@ -29,5 +23,26 @@ Rewards are paid in $ASTR tokens.
  3. If you choose to take the task, please leave a comment and your ASTR wallet address.
  4. Complete the task by creating a PR within the expected time.
  5. The codes will be reviewed and a rating of 1-5 will be given. 1 being the lowest and 5 being the highest.
-6. You shall receive the rewards based on the difficulty tier and rating.
- 
+ 6. You shall receive the rewards based on the difficulty tier and rating.
+
+| Tier | Difficulty | Expected Time Of Completion | Rewards | 
+| --- | --- | --- | --- |
+| 1 | Very simple tasks | 1-2 day | up to $100 |  
+| 2 | Mid complexity tasks | 4-6 days | up to $300 |
+| 3 | Complex tasks | Up to 5 -10 days | up to $500 |
+
+Rewards are paid in $ASTR tokens.
+
+| Rating | % Rewards |
+| --- | --- |
+| 1 | 20% |
+| 2 | 40% |
+| 3 | 60% |
+| 4 | 80% |
+| 5 | 100% |
+
+ ### Examples
+ 1. Alice chose to take a Tier 1 task and completed it within the expected time frame. The codes were reviewed, it was very clean it was rated 5. Alice received an incentive of $100 worth of ASTR.
+ 2. Bob chose to take a Tier 3 task and completed it within the expected time frame. The codes were reviewed, but it is not the best so it was rated 3. Bob received an incentive of $300 worth of ASTR.
+
+
