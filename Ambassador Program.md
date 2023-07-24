@@ -47,10 +47,10 @@ Discord Username: @ToTheMoon#1111
 ASTR Wallet Address: YME2HxqwpqpVoVEedGf3m4z1wLbYF3QZSXwAZgpGmZb8j4W
 
 Contributions:
-1. CM - Manage and support both Local and Main community chat.
+1. CM - Managed and supported both Local and Main community chat.
 * [add Combot statistics here]
 
-2. GOV - Engage in governance discussion.
+2. GOV - Engaged in governance discussion.
 * [link to forum/discord posts/comments]
 
 3. VSM - Twitted about Astar
