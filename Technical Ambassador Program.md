@@ -6,9 +6,8 @@
 2. Everyone is welcomed to apply but seats are limited. So please do your best during the interview to get shortlisted.
 3. Shortlisted candicates will be given a 2-month trial period before the rewards kick in.
 4. After the 2-month period, we will do an assessment on all your contributions. If you do well, you will start receiving the monthly rewards.
-5. The reward pool comes from dApp staking pool: [SDN Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward) and [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc).
-6. This program is not about getting rewarded. It is more about learning, participating and contributing to the growth of Astar & Shiden Network. 
-7. This program is not a form of an employment. It is more like an initiative to encourage the community to learn ink! and WASM.
+5. This program is not really about getting rewarded. It is more about learning, participating and contributing to the growth of Astar Network. 
+6. This program is not a form of an employment. It is more like an initiative to encourage the community to learn ink! and WASM.
 
 ---
 
@@ -46,7 +45,7 @@
 
 
 **Earn**
-1. As you progress, you will be rewarded with SDN & ASTR tokens for your contribution.
+1. As you progress, you will be rewarded with ASTR tokens for your contribution.
 2. The amount that you get depends on the quality of your contribution. You can expect to earn between $100-500/month after the trial period.
 3. As your reputation gets better, you may get incubated by Shiden DAO to build unique products on Shiden and earn a grant from Shiden DAO's treasury.
 
@@ -65,14 +64,16 @@ If you think you would like to learn and contribute to the growth of Astar & Shi
 ---
 
 ## Reward Program
-ink! Recruits that have been promoted to ink! OGs can participate in this reward program by doing any of the tasks listed below.
+ink! Recruits that have been promoted to ink! OGs can participate in this reward program by doing any of the tasks listed below. Max 4 tasks will be considered per month, giving you a max 100 points.
 
 | ID | Description | Required Quantity | KPI | Max Points |
 | --- | --- | --- | --- | --- |
-| DS | Developer Support - This is the most important task since many developers are new to ink! and your interaction in much needed. Support the builders and developers on `#wasm-smart-contract` channel on Astar Discord. This includes answering their questions and helping them to solve their problems. | Day to day | Interaction | 40 |
-| CC | Content Creation - Write an article or produce a video to tell the whole world about ink! and WASM. Be creative. | 1 per month| Quality & Reach| 20 |
-| TT | Tutorial - Write an article or produce a tutorial video to tell the whole world about how to on ink! and WASM. | 1 per month| Quality & Reach| 20 |
-| EM | Event Manager - Organize an irl or online meetup/talks with a group of developers to discuss topics related to ink! and WASM. If you require a budget to cover the expenses of the irl meetup, please let us know in advance. | 1 per month| Quality & Reach| 20 |
+| DS | Developer Support - This is the most important task since many developers are new to ink! and your interaction in much needed. Support the builders and developers on `#wasm-smart-contract` channel on Astar Discord. This includes answering their questions and helping them to solve their problems. | Day to day | Interaction | 25 |
+| GOV | Governance & Project Engagement - Engage with governance and Unstoppable Grant discussion in the forum and Discord. | Day to day | Quality & Interaction | 25 |
+| CC | Content Creation - Create an article/video to tell the whole world about ink! and WASM. This can be a tutorial as well. Be creative. | 1 per month| Quality & Reach| 25 |
+| EM | Event Manager - Organize an irl or online meetup/talks with a group of developers to discuss topics related to ink! and WASM. If you require a budget to cover the expenses of the irl meetup, please let us know in advance. | 1 per month| Quality & Reach| 25 |
+
+For any other types of contribution that is not listed above, please reach out to the team. 
 
 *Additional bonus will be considered if you start your own local ink! & WASM developer community.
 
@@ -81,7 +82,7 @@ You are required to submit a monthly report on your activities by creating an is
 ---
 ## Report Format Example
 
-Title: January 2023 Contribution - Tech. Ambassador
+Title: Aug 2023 Contribution - Tech. Ambassador
 
 Telegram Username: @ToTheMoon
 
@@ -93,12 +94,12 @@ Contributions:
 1. DS - Support developers on Astar Discord.
 * [add screenshots of your interaction]
 
-2. CC - Wrote an aticle.
+2. GOV - Engage in governance discussion.
+* [link to forum/discord posts/comments]
+
+3. CC - Wrote an aticle.
 * [link to article]
 * [screenshot of your Medium article statistics]
-
-3. TT - Wrote A Tutorial
-* [links to the tutorial]
 
 4. EM - Held a Twitter space with developers community from Brazil 
 * [link to the Twitter Space]
@@ -106,7 +107,7 @@ Contributions:
 ---
 
 ## Reward Pool & Distribution
-1. The reward pool comes from dApp staking: [SDN Reward](https://shiden.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc?tab=reward) and [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc).
+1. The reward pool comes from dApp staking: [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc).
 2. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
 3. The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1PNAzXBPpj-iwT3-9agzb4zg9VVYs49JT/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true) 
 
