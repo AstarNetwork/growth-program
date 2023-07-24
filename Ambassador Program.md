@@ -19,8 +19,8 @@
 ## Basic Task (Mandatory)
 | ID | Description | Required Quantity | KPI | Max Points |
 | --- | --- | --- | --- | --- |
-| CM | Community Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link | Day to day | Interaction & Growth | 25 |
-| GOV | Governance & Project Engagement - Engage with governance and Unstoppable Grant discussion in the forum and Discord | Day to day | Quality & Interaction | 25 |
+| CM | Community Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link. | Day to day | Interaction & Growth | 25 |
+| GOV | Governance & Project Engagement - Engage with governance and Unstoppable Grant discussion in the forum and Discord. | Day to day | Quality & Interaction | 25 |
 
 ## Supplementary Tasks (Choose up to 2 tasks/month)
 | ID | Description | Required Quantity | KPI | Max Points |
@@ -28,7 +28,7 @@
 | SM | Social Media Engagement - You are required to put on "Astar Network Amabassador" on your Twitter account. Create short quality content or memes on Twitter or other social media platforms. Please share your tweets with your local community and get them to retweet to increase presence. You need to share your Twitter analytics (https://analytics.twitter.com/) every month.  | 2 per week | Quality & Interaction | 25 |
 | CC | The Content Creator - Create content. This can be an article or tutorial in a written or video format. The content has to be **ORIGINAL**. | 1 per month | Quality & Reach | 25 |  
 | EM | The Event Manager - Organize an online/physical meetup/AMA with your local community or be the host during the Community Educational session on Discord. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 25 |
-| BD | The Business Developer - Reach out to projects to build on Astar. You have to be able to pitch about Astar before handing over the project to Spacelabs. Special bonus will be given when it is a native Astar project (which means they previously have never launched on any other chains) | 1 per month | Quality  & Success | 25 | 
+| BD | The Business Developer - Reach out to projects to build on Astar. You have to be able to pitch about Astar before handing over the project to Spacelabs. Special bonus will be given when it is a native Astar project (which means they previously have never launched on any other chains). | 1 per month | Quality  & Success | 25 | 
 
 For any other types of contribution that is not listed above, please reach out to the team. 
 
