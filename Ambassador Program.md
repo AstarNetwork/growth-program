@@ -3,7 +3,7 @@
 ---
 ## How does the program work?
 1. This program is designed for community members that want to contribute to the growth of Astar Network.
-2. All Ambassadors are encouraged to paricipate in peforming the tasks. Lack of participation may result in the revocation of your Ambassador role.
+2. All Ambassadors are encouraged to participate in peforming the tasks. Lack of participation may result in the revocation of your Ambassador role.
 3. There will be basic tasks and supplementary tasks every month.
 4. Basic tasks are mandatory and will be recurring.
 5. Supplementary tasks are optional, which you can choose depending on your skills and talent. You can choose **up to 2** different supplementary tasks in a month.
