@@ -27,7 +27,7 @@
 | --- | --- | --- | --- | --- |
 | SM | Social Media Engagement - You are required to put on "Astar Network Ambassador" on your Twitter account. Create short quality content or memes on Twitter or other social media platforms. Please share your tweets with your local community and get them to retweet to increase presence. You need to share your Twitter analytics (https://analytics.twitter.com/) every month.  | 2 per week | Quality & Interaction | 25 |
 | CC | Content Creation - Create content. This can be an article or a tutorial in a written or video format. The content has to be **ORIGINAL**. | 1 per month | Quality & Reach | 25 |  
-| EM | Event Management - Organize an online/physical meetup/AMA with your local community or be the host during the Community Educational session on Discord. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 25 |
+| EM | Event Management - Organize an online/physical meetup with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | Quality & Engagement | 25 |
 | BD | Business Development - Reach out to projects to build on Astar. You have to be able to pitch about Astar before handing over the project to Spacelabs. Special bonus will be given when it is a native Astar project (which means they previously have never launched on any other chains). | 1 per month | Quality  & Success | 25 | 
 
 For any other types of contribution that is not listed above, please reach out to the team. 
