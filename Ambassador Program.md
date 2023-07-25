@@ -10,8 +10,8 @@
 6. Each task is given specific points and you need to achieve at least 40% of the total points to qualify to receive the rewards.
 7. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
 8. If there are surplus ASTR in a particular month, it will be distributed equally to those who achieved ≥90%.
-9. In case that there are surplus ASTR and no one achieves ≥90%, the surplus SDN will be sent to the Community Treasury or carried forward to the next month.
-10. On top of the fixed reward pool, there will be an additional 50,000 ASTR to be distributed to the Top 5 contributors every month. 
+9. In case that there are surplus ASTR and no one achieves ≥90%, the surplus ASTR will be carried forward to the following month.
+10. On top of the reward pool, there will be an additional 50,000 ASTR to be distributed to the Top 5 contributors every month. 
 11. In case that you do a group work with other ambassadors e.g. We have 2 ambassadors from Thailand and they jointly organized a local meetup, please submit your contribution individually (stating that it is a group work). This is to avoid confusion. Points will be given individually.
 12. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
 13. The reward pool comes from dApp staking: [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc). The reward pool is not fixed. It may change depending on circumstances e.g. if we have more Ambassadors, we will increase the pool.
