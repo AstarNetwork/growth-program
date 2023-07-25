@@ -59,8 +59,11 @@ Contributions:
 4. CC - Wrote a tutorial
 * [link to tutorial and statistics screenshot]
 
+
 ---
 The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1PNAzXBPpj-iwT3-9agzb4zg9VVYs49JT/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true)
 
 # Join Now
 Join the [Astar Flight Club](https://t.me/+O_vq1Vx2uc1mMTEx) group, introduce yourself and interact with the community members.
+---
+updated 25th July 2023
