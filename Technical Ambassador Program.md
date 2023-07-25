@@ -66,16 +66,30 @@ If you think you would like to learn and contribute to the growth of Astar & Shi
 ## Reward Program
 ink! Recruits that have been promoted to ink! OGs can participate in this reward program by doing any of the tasks listed below. Max 4 tasks will be considered per month, giving you a max 100 points.
 
+## How does the program work?
+1. Core tasks are mandatory and will be recurring.
+2. Optional tasks can be chosen depending on your skills and talent. You can choose **up to 2** different optional tasks in a month.
+3. Each task is given specific points and you need to achieve at least 40% of the total points to qualify to receive the rewards.
+4. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
+5. If there are surplus ASTR in a particular month, it will be distributed equally to those who achieved ≥90%.
+9. In case that there are surplus ASTR and no one achieves ≥90%, the surplus ASTR carried forward to the following month.
+10. On top of the reward pool, there will be an additional 50,000 ASTR to be distributed to the Top 5 contributors every month. 
+
+## Core Tasks (Mandatory)
 | ID | Description | Required Quantity | KPI | Max Points |
 | --- | --- | --- | --- | --- |
-| DS | Developer Support - This is the most important task since many developers are new to ink! and your interaction in much needed. Support the builders and developers on `#wasm-smart-contract` channel on Astar Discord. This includes answering their questions and helping them to solve their problems. | Day to day | Interaction | 25 |
+| DS | Developer Support - This is the most important task since many developers are new to ink! and your interaction is much needed. Support the builders and developers on `#wasm-smart-contract` channel on Astar Discord. This includes answering their questions and helping them to solve their problems. | Day to day | Interaction | 25 |
 | GOV | Governance & Project Engagement - Engage with governance and Unstoppable Grant discussion in the forum and Discord. | Day to day | Quality & Interaction | 25 |
+
+## Optional Tasks (Choose up to 2 tasks/month)
+| ID | Description | Required Quantity | KPI | Max Points |
+| --- | --- | --- | --- | --- |
+| CM | Community Management - Start your own local ink! community. Guide and support them. | Day to day | Interaction & Growth | 25 |
 | CC | Content Creation - Create an article/video to tell the whole world about ink! and WASM. This can be a tutorial as well. Be creative. | 1 per month| Quality & Reach| 25 |
-| EM | Event Manager - Organize an irl or online meetup/talks with a group of developers to discuss topics related to ink! and WASM. If you require a budget to cover the expenses of the irl meetup, please let us know in advance. | 1 per month| Quality & Reach| 25 |
+| EM | Event Management - Organize an irl or online meetup/talks with a group of developers to discuss topics related to ink! and WASM. If you require a budget to cover the expenses of the irl meetup, please let us know in advance. | 1 per month| Quality & Reach | 25 |
+| BUILD | Build something - Show us your skills by building something. Your progress on Github should be transparent. | Progressive | Github Activity | 25 |
 
 For any other types of contribution that is not listed above, please reach out to the team. 
-
-*Additional bonus will be considered if you start your own local ink! & WASM developer community.
 
 You are required to submit a monthly report on your activities by creating an issue [HERE](https://github.com/AstarNetwork/growth-program/issues)
 
