@@ -22,7 +22,7 @@ Currently, only the core team members are testing the bi-weekly UI update. We wa
  ## Guide For Participants
  1. See the testing schedule [HERE](https://docs.google.com/spreadsheets/d/1wVtQ5zMVJYgQaXrQE88lm6zfIqZRu-S-e4fRRGWDGws/edit?usp=sharing)
  2. Use this test report [FORM](https://forms.gle/FdQ46oLYU2udUGr76).
- 3. Do not start the testing until your are notified in the Telegram group.
+ 3. Do not start the testing until your are notified in the Ambassador Telegram group.
  4. You need to report your participation in the monthly contribution report.
 
 ##
