@@ -9,7 +9,7 @@ Education is very important.
 
 ## How
 1. Organize and host an educational or informative session on Astar Discord Stage.
-2. Any topic related to Web3 will do but must be relevant to Astar.
+2. Any topic related to Web3 will do but it must be relevant to Astar.
 3. Or, invite your favourite projects to teach the community on how to use the products e.g. conduct product demo.
 4. Language: English.
 5. Rewards: Up to $50/session.
