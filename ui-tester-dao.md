@@ -25,4 +25,4 @@ Currently, only the core team members are testing the bi-weekly UI update. We wa
  3. Do not start the testing until your are notified in the Telegram group.
 
 ##
-Updated 27th July 2023
+Updated on the 27th July 2023
