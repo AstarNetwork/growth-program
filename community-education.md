@@ -23,4 +23,4 @@ Education is very important.
  4. You need to record the whole session and submit the link in your monthly contribution report.
 
 ##
-Updated 27th July 2023
+Updated on the 27th July 2023
