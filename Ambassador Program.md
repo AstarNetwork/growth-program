@@ -68,4 +68,4 @@ The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheet
 Join the [Astar Flight Club](https://t.me/+O_vq1Vx2uc1mMTEx) group, introduce yourself and interact with the community members.
 
 ---
-updated 25th July 2023
+Updated on the 27th July 2023
