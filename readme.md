@@ -57,3 +57,7 @@ Astar Network supports the building of dApps with EVM and WASM smart contracts a
 ## Other programs which the Ambassadors can participate on:
 1. UI DAO. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ui-dao.md)
 2. UI Tester DAO. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ui-tester-dao.md)
+3. Community Education. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/community-education.md)
+
+##
+Updated on the 27th July 2023
