@@ -45,4 +45,5 @@ Rewards are paid in $ASTR tokens.
  1. Alice chose to take a Tier 1 task and completed it within the expected time frame. The codes were reviewed, it was very clean and it was rated five (5). Alice received an incentive of $100 worth of ASTR.
  2. Bob chose to take a Tier 3 task and completed it within the expected time frame. The codes were reviewed, but it is not the best so it was rated three (3). Bob received an incentive of $300 worth of ASTR.
 
-
+##
+Updated on the 27th July 2023
