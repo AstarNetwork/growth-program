@@ -58,6 +58,7 @@ Astar Network supports the building of dApps with EVM and WASM smart contracts a
 1. UI DAO. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ui-dao.md)
 2. UI Tester DAO. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ui-tester-dao.md)
 3. Community Education. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/community-education.md)
+4. Join the monthly Ambassador meeting, stay until the end and participate in a lucky draw. 1000 pushups or 1000 tokens? 
 
 ##
 Updated on the 27th July 2023
