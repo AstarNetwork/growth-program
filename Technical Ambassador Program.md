@@ -126,4 +126,4 @@ Contributions:
 3. The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1PNAzXBPpj-iwT3-9agzb4zg9VVYs49JT/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true) 
 
 ---
-updated 25th July 2023
+Updated on the 27th July 2023
