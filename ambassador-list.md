@@ -2,7 +2,7 @@
 
 ---
 ## Ranking
-1. All-Star Ambassadors: These are the OGs and diamond hands that joined the program between 2020 - to early 2022.
+1. All-Star Ambassadors: These are the OGs and diamond hands that joined between 2020 to early 2022.
 2. Protostar Ambassadors: These are those that joined at a later stage.
 
 ## Who Are They?
