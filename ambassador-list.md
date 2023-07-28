@@ -10,7 +10,7 @@ Our Ambassadors are goodfellas.
 | No. |  Telegram ID | Twitter ID | Discord ID | Rank | Region |
 | --- | --- | --- | --- | --- | --- |
 | 1 | @actlee |	https://twitter.com/spmlaihm |	pithecus#9288 |	All Star |	Belgium |
-| 2 | @pitcoin777 | https://twitter.com/pitcoin_	| pitcoin #3857	| All Star	| Brazil |
+| 2 | @pitcoin777 | https://twitter.com/pitcoin_/ | pitcoin #3857	| All Star	| Brazil |
 | 3 | @Graves_you |	https://twitter.com/BM_Labs |	Graves_you#0482 |	All Star |	China |
 | 4 | @GTKez |	https://twitter.com/greatteacherkez |	Great Teacher Kez#1422 |	All Star |	France |
 | 5 | @Gunit31 | https://twitter.com/gunit3124 |	G'ₑₓₚₑcₜ cₕₐₒₛ#3121 |	All Star |	France / Australia |
