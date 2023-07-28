@@ -51,7 +51,7 @@ Astar Network supports the building of dApps with EVM and WASM smart contracts a
 * We value your referrer and your future referrals.
 
 # The Ambassadors
-You can find the list of Ambassadors [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ambassador-list.md)
+You can find the list of Ambassadors [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ambassador-list.md).
 
 # There are 2 different programs that we offer
 1. Ambassador Program: For non-technical community members. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/Ambassador%20Program.md). 
