@@ -50,15 +50,18 @@ Astar Network supports the building of dApps with EVM and WASM smart contracts a
 * We value your efforts in growing an active community that wants to see Astar succeed.
 * We value your referrer and your future referrals.
 
-## There are 2 different programs that we offer:
+# The Ambassadors
+You can find the list of Ambassadors [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ambassador-list.md)
+
+# There are 2 different programs that we offer
 1. Ambassador Program: For non-technical community members. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/Ambassador%20Program.md). 
 2. Technical Ambassador Program: For technical community members. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/Technical%20Ambassador%20Program.md).
 
-## Other programs which the Ambassadors can participate on:
+# Other programs which the Ambassadors can participate on
 1. UI DAO. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ui-dao.md)
 2. UI Tester DAO. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ui-tester-dao.md)
 3. Community Education. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/community-education.md)
 4. Join the monthly Ambassador meeting, stay until the end and participate in a lucky draw. 1000 pushups or 1000 tokens? 
 
-##
+#
 Updated on the 27th July 2023
