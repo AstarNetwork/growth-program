@@ -35,7 +35,7 @@ Our Ambassadors are goodfellas.
 | 24 | @ahjxcrz |	https://twitter.com/cao_lab |	DrCAO#1508 |	Protostar |	USA |
 | 25 | @neurolauncher |	https://twitter.com/neurolauncher |	neurolanche#9226 |	Protostar |	Turkey |
 | 26 | @guigou12358 |	https://twitter.com/GuiGou12358 |	GuiGou#1021	| Protostar	| France |
-| 27 | @Matt_Web3 |	https://twitter.com/Matt_Web3_ |	Matt_Web3#3333 |	Protostar |	Czech |
+| 27 | @Matt_Web3 |	<https://twitter.com/Matt_Web3_> |	Matt_Web3#3333 |	Protostar |	Czech |
 | 28 | @Juminstock	| https://twitter.com/Juminstock |	Juminstock#8856 |	Protostar |	Colombia |
 | 29 | @Disruptoor | https://twitter.com/MatosFranze |	__disruptor_ | Protostar |	Brazil |
 | 30 | @Emret16 |	https://twitter.com/mr_karahanl |	mr.karahanli_emre_ |	Protostar |	Turkey |
