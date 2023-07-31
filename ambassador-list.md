@@ -20,7 +20,7 @@ Our Ambassadors are goodfellas.
 | 9 | @you425 |	https://twitter.com/you425you |	you425#0425 |	All Star |	Japan |
 | 10 | @christopedia |	https://twitter.com/ChrisMalize3 | cmalize#8352 |	All Star |	Nigeria |
 | 11 | @ercab24 |	https://twitter.com/ercab24 | Ercab24#2125 |	All Star |	Panama |
-| 12 | @pantarheipl | 	https://twitter.com/pantarheipl |	tomek#2111	| All Star |	Poland |
+| 12 | @pantarheipl | 	https://twitter.com/AstarTechDigest |	tomek#2111	| All Star |	Poland |
 | 13 | @AlexPromoTeam |	https://twitter.com/Alex_PromoTeam |	AlexPromoTeam#0488 |	All Star |	Russia |
 | 14 | @vladylimes |	https://twitter.com/vladylimes |	Vlady Limes#3997 |	All Star |	Russia |
 | 15 | @rheeunion |	https://twitter.com/RHEE_UNION |	rheeunion#0605 |	All Star |	South Korea |
