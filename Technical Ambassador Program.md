@@ -108,8 +108,8 @@ Contributions:
 1. DS - Support developers on Astar Discord.
 * [add screenshots of your interaction]
 
-2. GOV - Engage in governance discussion.
-* [link to forum/discord posts/comments]
+2. GOV - Engaged in governance discussion.
+* [link to your forum activity summary] e.g https://forum.astar.network/u/moonme/activity
 
 3. CC - Wrote an aticle.
 * [link to article]
