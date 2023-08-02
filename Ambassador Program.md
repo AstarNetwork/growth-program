@@ -51,7 +51,7 @@ Contributions:
 * [add Combot statistics here]
 
 2. GOV - Engaged in governance discussion.
-* [link to forum/discord posts/comments]
+* [link to your forum activity summary] e.g https://forum.astar.network/u/moonme/activity
 
 3. VSM - Twitted about Astar
 * [links to your Tweets and screenshot of your Twitter analytics]
