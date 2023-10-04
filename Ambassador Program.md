@@ -61,7 +61,7 @@ Contributions:
 
 
 ---
-The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1a9GlqTQKWvbeZ5bzLDbGpLT9IuXafV2c/edit?usp=sharing&ouid=111949641973137032001&rtpof=true&sd=true)
+The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1OqUZCCCuPP_1JQId17L9jQ5G7x6P4hgt/edit?usp=sharing&ouid=111949641973137032001&rtpof=true&sd=true)
 
 ## Join Now
 
