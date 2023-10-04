@@ -123,6 +123,6 @@ Contributions:
 ## Reward Pool & Distribution
 1. The reward pool comes from dApp staking: [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc).
 2. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
-3. The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1a9GlqTQKWvbeZ5bzLDbGpLT9IuXafV2c/edit?usp=sharing&ouid=111949641973137032001&rtpof=true&sd=true)
+3. The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1OqUZCCCuPP_1JQId17L9jQ5G7x6P4hgt/edit?usp=sharing&ouid=111949641973137032001&rtpof=true&sd=true)
 ---
 Updated on the 27th July 2023
