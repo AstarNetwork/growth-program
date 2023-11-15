@@ -1,7 +1,7 @@
 # Astar Ambassador Program
 
 <p align="center">
-  <img src="astar.png" style="width:1000px";>
+  <img src="Astar Ambassador Program.png" style="width:1000px";>
 </p>
 
 > **:loudspeaker:** This program is tracked **transparently** on GitHub.
@@ -50,6 +50,36 @@ Astar Network supports the building of dApps with EVM and WASM smart contracts a
 * We value your efforts in growing an active community that wants to see Astar succeed.
 * We value your referrer and your future referrals.
 
+# ⚖️ Code of Conduct
+
+Being an ambassador means being officially recognized as a representative of the Astar Network and its ecosystem. This role carries a responsibility to uphold the Astar name and its values.
+
+Before joining the ambassador program, members must thoroughly read, understand, and respect the Astar Space Club: Code of Conduct. This is crucial for fostering an environment of collaboration, learning, and trust.
+
+### Respect:
+
+- **Be Respectful:** Treat all members with respect, fostering a welcoming environment that embraces diversity and promotes courteous interactions.
+- **Help others:** Willingly offer assistance, share knowledge, and encourage collaboration to empower fellow community members.
+- **Be constructive:** Positively contribute to discussions and projects by providing well-reasoned feedback, seeking solutions, and making meaningful contributions.
+- **Speak your mind:** Express your thoughts openly and respectfully, fostering open and honest communication to drive positive change.
+- **Share Feedback:** Provide constructive feedback and be open to receiving it, promoting a culture of continuous improvement and appreciation.
+- **Act exemplary:** Lead by example, upholding the highest ethical standards, inspiring trust, and supporting the community's vision with integrity and credibility.
+- **Social identity:** As representatives of Astar, Ambassadors are expected to uphold the reputation of the project through their social identity, ensuring responsible use of their accounts by avoiding heavy engagement farming and refraining from excessive promotion of competitor products.
+
+### Avoid:
+
+- **No Impersonation:** Do not impersonate or falsely represent yourself as another individual or organization, especially Astar Network brand or any entity within the community.
+- **No self-promotion:** Avoid excessive self-promotion, personal projects, or spamming within Astar's channels that could detract from the quality and purpose of the community.
+- **No Harassment or Hate Speech:** Refrain from engaging in any form of harassment or hate speech, ensuring a safe and inclusive environment for all community members.
+- **No Plagiarism:** Do not present someone else's work, ideas, or content as your own without proper attribution or permission.
+- **No Astar’s price talk:** Avoid excessive discussion or speculation regarding Astar's price or investment-related topics, as these may not align with the community's focus and objectives.
+
+If you are a member of the Ambassador program, consider it a privilege to represent Astar, and therefore, it is expected that you demonstrate exemplary behavior when engaging with the community and partners.
+
+Violating this code of conduct may lead to warnings or permanent bans from the Astar Ambassador Program, taking into account the seriousness and frequency of the transgression. The Community Growth Team holds ultimate authority in upholding these guidelines and will take necessary measures to preserve a positive and trustworthy community atmosphere.
+
+**Shine Like A Star 🌠**
+
 # The Ambassadors
 You can find the list of Ambassadors [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ambassador-list.md).
 
@@ -61,7 +91,6 @@ You can find the list of Ambassadors [HERE](https://github.com/AstarNetwork/grow
 1. UI DAO. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ui-dao.md)
 2. UI Tester DAO. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/ui-tester-dao.md)
 3. Community Education. See [HERE](https://github.com/AstarNetwork/growth-program/blob/main/community-education.md)
-4. Join the monthly Ambassador meeting, stay until the end and participate in a lucky draw. 1000 pushups or 1000 tokens? 
 
 #
-Updated on the 27th July 2023
+Updated on the 15th November 2023
