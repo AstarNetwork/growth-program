@@ -1,4 +1,4 @@
-# TECHNICAL AMBASSADOR PROGRAM
+# TECHNICAL AGENT PROGRAM
 
 ---
 ## How does the program work?
@@ -11,13 +11,13 @@
 
 ---
 
-## What You Need To Do As A Technical Ambassador
+## What You Need To Do As A Technical Agent
 
 **Learn & Share What You Learn**
 1. This program is not a school but a place for you to be self-motivated to learn.
-2. You will be given an access to a closed Discord group where you can interact with other Ambassadors and the Core Developers of Astar Network.
+2. You will be given an access to a closed Discord group where you can interact with other Agents and the Core Developers of Astar Network.
 3. While you are learning, please share what you learn on social medias. Make regular tweets and how-to tutorial articles.
-4. Help other Ambassadors in the group so that all of you can grow.
+4. Help other Agents in the group so that all of you can grow.
 5. When you help others, you learn better.
   
 **Build Stuff**
@@ -31,7 +31,7 @@
 3. Organize local meetups to help the adoption of ink! & WASM.
 
 
-## What Can You Expect As A Technical Ambassador
+## What Can You Expect As A Technical Agent
 
 **First Hand Info On The Evolving Technology Of Astar Network**
 1. You will be in direct contact with the Core Developers of Astar Network. 
@@ -56,38 +56,37 @@
 2. Existing community members who want to explore the potential of ink! and WASM.
 3. Those who want to contribute to the growth of Astar & Shiden Network.
 
-
-If you think you would like to learn and contribute to the growth of Astar & Shiden Network, hit the apply button below!
-
-[Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLSfgRE_IwRfJ7DcmLXKN6L_Zr9Q-eHZwqyFv9-4jOHQBYF9wvQ/viewform?usp=pp_url)
-
 ---
 
 ## Reward Program
-ink! Recruits that have been promoted to ink! OGs can participate in this reward program by doing any of the tasks listed below. Max 4 tasks will be considered per month, giving you a max 100 points.
 
 ## How does the program work?
-1. Core tasks are mandatory and will be recurring.
-2. Optional tasks can be chosen depending on your skills and talent. You can choose **up to 2** different optional tasks in a month.
-3. Each task is given specific points and you need to achieve at least 40% of the total points to qualify to receive the rewards.
-4. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
-5. If there are surplus ASTR in a particular month, it will be distributed equally to those who achieved ≥90%.
-9. In case that there are surplus ASTR and no one achieves ≥90%, the surplus ASTR carried forward to the following month.
-10. On top of the reward pool, there will be an additional 50,000 ASTR to be distributed to the Top 5 contributors every month. 
+1. ll Agents are encouraged to participate in performing the tasks. Not participating will result in no rewards.
+2. There will be core tasks and optional tasks every month.
+3. Core tasks are mandatory and will be recurring.
+4. Optional tasks can be chosen depending on your skills and talent. You can choose **up to 2** different optional tasks in a month.
+5. If you achieve 100%, you will get the full rewards. If you achieve only 50%, you will get half of the full rewards.
+6. If there are surplus ASTR in a particular month, it will be distributed equally to those who achieved ≥80%.
+7. In case that there are surplus ASTR and no one achieves ≥80%, the surplus ASTR will remain in the Community Treasury.
+8. In addition to the reward pool, an additional 30% ASTR bonus will be distributed to those who achieve an average ≥90% for each quarter.
+9. In case that you do a group work with other agents e.g. We have 2 agents from Thailand and they jointly organized a local meetup, please submit your contribution individually (stating that it is a group work). This is to avoid confusion. Points will be given individually.
+10. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
+11. The reward pool comes from dApp staking: [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc). The reward pool is not fixed. It may change depending on circumstances e.g. if we have more Agents, we will increase the pool.
+12. The score is evaluated and determined by the Community Growth Lead, with input from the Astar Core team.
 
 ## Core Tasks (Mandatory)
 | ID | Description | Required Quantity | KPI | Max Points |
 | --- | --- | --- | --- | --- |
-| DS | Developer Support - This is the most important task since many developers are new to ink! and your interaction is much needed. Support the builders and developers on `#wasm-smart-contract` channel on Astar Discord. This includes answering their questions and helping them to solve their problems. | Day to day | Interaction | 25 |
-| GOV | Governance & Project Engagement - Engage with governance and Unstoppable Grant discussion in the forum and Discord. | Day to day | Quality & Interaction | 25 |
+| DS | **Developer Support** - This is the most important task since many developers are new to ink! and your interaction is much needed. Support the builders and developers on `#wasm-smart-contract` channel on Astar Discord. This includes answering their questions and helping them to solve their problems. | Day to day | Interaction | 25 |
+| GOV | **Governance & Project Engagement** - Engage with governance and Unstoppable Grant discussion in the forum and Discord. | Day to day | Quality & Interaction | 25 |
 
 ## Optional Tasks (Choose up to 2 tasks/month)
 | ID | Description | Required Quantity | KPI | Max Points |
 | --- | --- | --- | --- | --- |
-| CM | Community Management - Start your own local ink! community. Guide and support them. | Day to day | Interaction & Growth | 25 |
-| CC | Content Creation - Create an article/video to tell the whole world about ink! and WASM. This can be a tutorial as well. Be creative. | 1 per month| Quality & Reach| 25 |
-| EM | Event Management - Organize an irl or online meetup/talks with a group of developers to discuss topics related to ink! and WASM. If you require a budget to cover the expenses of the irl meetup, please let us know in advance. | 1 per month| Quality & Reach | 25 |
-| BUILD | Build something - Show us your skills by building something. Your progress on Github should be transparent. | Progressive | Github Activity | 25 |
+| CM | **Community Management** - Start your own local ink! community. Guide and support them. | Day to day | Interaction & Growth | 25 |
+| CC | **Content Creation** - Create an article/video to tell the whole world about ink! and WASM. This can be a tutorial as well. Be creative. | 1 per month| Quality & Reach| 25 |
+| EM | **Event Management** - Organize an irl or online meetup/talks with a group of developers to discuss topics related to ink! and WASM. If you require a budget to cover the expenses of the irl meetup, please let us know in advance. | 1 per month| Quality & Reach | 25 |
+| BUILD | **Build something** - Show us your skills by building something. Your progress on Github should be transparent. | Progressive | Github Activity | 25 |
 
 For any other types of contribution that is not listed above, please reach out to the team. 
 
@@ -96,7 +95,7 @@ You are required to submit a monthly report on your activities by creating an is
 ---
 ## Report Format Example
 
-Title: Aug 2023 Contribution - Tech. Ambassador
+Title: Aug 2023 Contribution - Tech. Agent's Name
 
 Telegram Username: @ToTheMoon
 
@@ -118,11 +117,11 @@ Contributions:
 4. EM - Held a Twitter space with developers community from Brazil 
 * [link to the Twitter Space]
 
----
+The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1OqUZCCCuPP_1JQId17L9jQ5G7x6P4hgt/edit?usp=sharing&ouid=111949641973137032001&rtpof=true&sd=true)
 
-## Reward Pool & Distribution
-1. The reward pool comes from dApp staking: [ASTR Rewards](https://astar.subscan.io/account/ZfEuzYHyfo5TZfAx9fsntdkx2W4gDFLPwUNeqSrJTpQJXDc).
-2. An example of how the calculation works can be found [HERE](https://docs.google.com/document/d/1m4a1B77nuPh7dxcKk2kVyPVt1l185m4C/edit?usp=sharing&ouid=115923092849552143416&rtpof=true&sd=true).
-3. The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1OqUZCCCuPP_1JQId17L9jQ5G7x6P4hgt/edit?usp=sharing&ouid=111949641973137032001&rtpof=true&sd=true)
+## Join Now
+
+Access the [Astar Space Club](https://startale.notion.site/Astar-Space-Club-2023-5e396c75fcf34d698baf288d9aa9230f?pvs=4), join our Discord, introduce yourself and interact with the community members.
+
 ---
-Updated on the 27th July 2023
+Updated on the 17th June 2024
