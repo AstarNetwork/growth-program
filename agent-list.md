@@ -29,7 +29,6 @@
 | 18 | @neurolauncher |	https://twitter.com/neurolauncher |	neurolanche#9226 |	Protostar |	Turkey |
 | 19 | @guigou12358 |	https://twitter.com/GuiGou12358 |	GuiGou#1021	| All Star	| France |
 | 20 | @Matt_Web3 |	<https://twitter.com/Matt_Web3_> |	Matt_Web3#3333 |	All Star |	Czech |
-| 21 | @Juminstock	| https://twitter.com/Juminstock |	Juminstock#8856 |	Protostar |	Colombia |
 | 22 | @Disruptoor | https://twitter.com/MatosFranze |	__disruptor_ | Protostar |	Brazil |
 | 23 | @Emret16 |	https://twitter.com/mr_karahanl |	mr.karahanli_emre_ |	Protostar |	Turkey |
 | 24 | @Sequaja |	https://twitter.com/Seq921 |	Sequaja#3605 |	Protostar |	Germany |
