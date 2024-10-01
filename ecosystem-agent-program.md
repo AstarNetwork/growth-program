@@ -28,6 +28,7 @@
 | CC | **Content Creation** - Create content. This can be an article or a tutorial in a written or video format. The content has to be **ORIGINAL**. <br/> <br/> **Evaluation criteria** - Quality, originality, quantity, relevance, support, materials, Brand awareness, Business development, work dedicated & promotion.<br/> <br/> **Note** - _Twitter threads are not evaluated in content creation, but in social media engagement_.| 1 per month | Quality & Reach | 25 |  
 | EM | **Event Management** - Organize an online/physical meetup with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. <br/> <br/> **Evaluation criteria** - Quality, quantity, size of event, number of participants, Brand awareness, Business development, time dedicated, planning and coordination, report quality, community impact and feedback.| 1 per month | Quality & Engagement | 25 |
 | BD | **Business Development** - Reach out to projects to build on Astar. You have to be able to pitch about Astar before handing over the project to Spacelabs. Special bonus will be given when it is a native Astar project (which means they previously have never launched on any other chains). | 1 per month | Quality  & Success | 25 | 
+| SON | **Astar Evangelists on Soneium** - Engage with the Soneium community by advocating for Astar Network and ASTR's values and benefits where relevant, or by highlighting the relationship between Soneium and Astar. Provide support to the Soneium community regarding Astar Network, ASTR uses, or any dApps related to Astar within Soneium. Contribute to discussions and add value without excessive financial promotion of Astar. This includes participating in local community channels. | 2 per week | Quality & Interaction | 25 | 
 
 For any other types of contribution that is not listed above, please reach out to the team. 
 
@@ -65,4 +66,4 @@ The reward is viewable on this [SPREADSHEET](https://docs.google.com/spreadsheet
 Access the [Astar Space Club](https://startale.notion.site/Astar-Space-Club-2023-5e396c75fcf34d698baf288d9aa9230f?pvs=4), join our Discord, introduce yourself and interact with the community members.
 
 ---
-Updated on the 17th June 2024
+Updated on the 30th September 2024

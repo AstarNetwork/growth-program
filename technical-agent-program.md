@@ -87,6 +87,7 @@
 | CC | **Content Creation** - Create an article/video to tell the whole world about ink! and WASM. This can be a tutorial as well. Be creative. | 1 per month| Quality & Reach| 25 |
 | EM | **Event Management** - Organize an irl or online meetup/talks with a group of developers to discuss topics related to ink! and WASM. If you require a budget to cover the expenses of the irl meetup, please let us know in advance. | 1 per month| Quality & Reach | 25 |
 | BUILD | **Build something** - Show us your skills by building something. Your progress on Github should be transparent. | Progressive | Github Activity | 25 |
+| SON | **Astar Evangelists on Soneium** - Engage with the Soneium community by promoting the technical strengths of Astar Network, such as multi-chain interoperability, scalability, and smart contract support. Highlight the synergy between Soneium and Astar, especially in dApp development and Web3 applications. Provide technical support on Astar's integration, ASTR token utility, and related dApps within Soneium. Contribute valuable insights without excessive financial promotion, and participate actively in local channels, focusing on technical collaboration and problem-solving. | 2 per week | Quality & Interaction | 25 | 
 
 For any other types of contribution that is not listed above, please reach out to the team. 
 
