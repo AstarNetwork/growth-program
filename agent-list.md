@@ -9,7 +9,7 @@
 
 | No. |  Telegram ID | Twitter ID | Discord ID | Rank | Region |
 | --- | --- | --- | --- | --- | --- |
-| 1 | @actlee |	https://twitter.com/spmlaihm |	pithecus#9288 |	All Star | South Korea |
+| 1 | @pithecus_18p6 |	https://twitter.com/spmlaihm |	pithecus#9288 |	All Star | South Korea |
 | 2 | @pitcoin777 | https://twitter.com/pitcoin_ | pitcoin #3857	| All Star	| Brazil |
 | 3 | @Graves_you |	https://x.com/graves_you |	Graves_you#0482 |	All Star |	China |
 | 4 | @marveLet |	https://twitter.com/rudayruday |	marvelet#8647 |	All Star |	Indonesia |
